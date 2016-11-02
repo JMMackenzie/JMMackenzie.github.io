@@ -8,7 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Joel Mackenzie</copyright>
     <lastBuildDate>Wed, 22 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://JMMackenzie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Comparison of Document-at-a-Time and Score-at-a-Time Query Evaluation</title>
@@ -29,29 +29,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>http://jmmackenzie.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jmmackenzie.github.io/home/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-
-&lt;p&gt;I am a PhD candidate at RMIT University in Melbourne, Australia.
-I am working in the field of Information Retrieval, with
-&lt;a href=&#34;http://culpepper.io/&#34;&gt;Dr. J. Shane Culpepper&lt;/a&gt; and
-&lt;a href=&#34;http://goanna.cs.rmit.edu.au/~fscholer&#34;&gt;Assoc Prof. Falk Scholer&lt;/a&gt;.
-My current research interests include distributed IR, selective search,
-dynamic pruning, compression, index efficiency and evaluation.&lt;/p&gt;
-
-&lt;p&gt;Previously, I worked on location-aware retrieval strategies for efficient
-and effective location-aware web search. I have also done some work on
-query log analysis, and automated question answering.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Efficient Location-Aware Web Search</title>
       <link>http://jmmackenzie.github.io/publication/location-aware/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
@@ -66,73 +43,6 @@ query log analysis, and automated question answering.&lt;/p&gt;
       <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://jmmackenzie.github.io/publication/hons-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://jmmackenzie.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jmmackenzie.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>http://jmmackenzie.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jmmackenzie.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://jmmackenzie.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jmmackenzie.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>http://jmmackenzie.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jmmackenzie.github.io/home/teaching/</guid>
-      <description>&lt;p&gt;I have previously been a tutor and lab assistant for the following courses at RMIT University:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;COSC1105/COSC1007: &lt;a href=&#34;http://www1.rmit.edu.au/courses/004108&#34;&gt;Computing Theory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;COSC2406/COSC2407: &lt;a href=&#34;http://www1.rmit.edu.au/courses/039983&#34;&gt;Database Systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;COSC1112/COSC1114: &lt;a href=&#34;http://www1.rmit.edu.au/courses/004111&#34;&gt;Operating Systems Principles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Other Duties</title>
-      <link>http://jmmackenzie.github.io/home/other/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jmmackenzie.github.io/home/other/</guid>
-      <description>&lt;p&gt;I have been a subreviewer for conferences such as:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://sigir.org/sigir2016/&#34;&gt;SIGIR 2016&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2016&#34;&gt;ADCS 2016&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://jmmackenzie.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://jmmackenzie.github.io/home/contact/</guid>
       <description></description>
     </item>
     
