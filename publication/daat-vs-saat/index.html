@@ -128,7 +128,7 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">To appear</p>
+    <p class="pub-abstract" itemprop="text">We present an empirical comparison between document-at-a-time (DAAT) and score-at-a-time (SAAT) document ranking strategies within a common framework. Although both strategies have been extensively explored, the literature lacks a fair, direct comparison: such a study has been difficult due to vastly different query evaluation mechanics and index organizations. Our work controls for score quantization, document processing, compression, implementation language, implementation effort, and a number of details, arriving at an empirical evaluation that fairly characterizes the performance of three specific techniques: WAND (DAAT), BMW (DAAT), and JASS (SAAT). Experiments reveal a number of interesting findings. The performance gap between WAND and BMW is not as clear as the literature suggests, and both methods are susceptible to tail queries that may take orders of magnitude longer than the median query to execute. Surprisingly, approximate query evaluation in WAND and BMW does not significantly reduce the risk of these tail queries. Overall, JASS is slightly slower than either WAND or BMW, but exhibits much lower variance in query latencies and is much less susceptible to tail query effects. Furthermore, JASS query latency is not particularly sensitive to the retrieval depth, making it an appealing solution for performance-sensitive applications where bounds on query latencies are desirable.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
@@ -167,6 +167,10 @@
 
 
 
+
+<a class="btn btn-primary btn-outline" href="http://JMMackenzie.github.io/pdf/cclmt17-wsdm.pdf">
+  PDF
+</a>
 
 
 
