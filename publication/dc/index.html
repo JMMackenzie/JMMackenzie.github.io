@@ -24,11 +24,11 @@
   <link rel="feed" href="http://JMMackenzie.github.io/index.xml" type="application/rss+xml" title="Joel Mackenzie">
 
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-  <link rel="canonical" href="http://jmmackenzie.github.io/publication/daat-vs-saat/">
+  <link rel="canonical" href="http://jmmackenzie.github.io/publication/dc/">
 
   
 
-  <title>A Comparison of Document-at-a-Time and Score-at-a-Time Query Evaluation | Joel Mackenzie</title>
+  <title>Managing Tail Latencies in Large Scale IR Systems | Joel Mackenzie</title>
 
 </head>
 <body id="top">
@@ -74,10 +74,10 @@
 
   <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="pub-title">
-      <h1 itemprop="name">A Comparison of Document-at-a-Time and Score-at-a-Time Query Evaluation</h1>
+      <h1 itemprop="name">Managing Tail Latencies in Large Scale IR Systems</h1>
       <span class="pub-authors" itemprop="author">
                 
-                Matt Crane, J.Shane Culpepper, Jimmy Lin, Joel Mackenzie and Andrew Trotman
+                Joel Mackenzie
                 
             </span>
       <span class="pull-right">
@@ -86,35 +86,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdaat-vs-saat%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdc%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Comparison%20of%20Document-at-a-Time%20and%20Score-at-a-Time%20Query%20Evaluation&amp;url=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdaat-vs-saat%2f"
+         href="https://twitter.com/intent/tweet?text=Managing%20Tail%20Latencies%20in%20Large%20Scale%20IR%20Systems&amp;url=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdc%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdaat-vs-saat%2f&amp;title=A%20Comparison%20of%20Document-at-a-Time%20and%20Score-at-a-Time%20Query%20Evaluation"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdc%2f&amp;title=Managing%20Tail%20Latencies%20in%20Large%20Scale%20IR%20Systems"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdaat-vs-saat%2f&amp;title=A%20Comparison%20of%20Document-at-a-Time%20and%20Score-at-a-Time%20Query%20Evaluation"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdc%2f&amp;title=Managing%20Tail%20Latencies%20in%20Large%20Scale%20IR%20Systems"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=A%20Comparison%20of%20Document-at-a-Time%20and%20Score-at-a-Time%20Query%20Evaluation&amp;body=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdaat-vs-saat%2f">
+         href="mailto:?subject=Managing%20Tail%20Latencies%20in%20Large%20Scale%20IR%20Systems&amp;body=http%3a%2f%2fjmmackenzie.github.io%2fpublication%2fdc%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -128,14 +128,14 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We present an empirical comparison between document-at-a-time (DAAT) and score-at-a-time (SAAT) document ranking strategies within a common framework. Although both strategies have been extensively explored, the literature lacks a fair, direct comparison: such a study has been difficult due to vastly different query evaluation mechanics and index organizations. Our work controls for score quantization, document processing, compression, implementation language, implementation effort, and a number of details, arriving at an empirical evaluation that fairly characterizes the performance of three specific techniques: WAND (DAAT), BMW (DAAT), and JASS (SAAT). Experiments reveal a number of interesting findings. The performance gap between WAND and BMW is not as clear as the literature suggests, and both methods are susceptible to tail queries that may take orders of magnitude longer than the median query to execute. Surprisingly, approximate query evaluation in WAND and BMW does not significantly reduce the risk of these tail queries. Overall, JASS is slightly slower than either WAND or BMW, but exhibits much lower variance in query latencies and is much less susceptible to tail query effects. Furthermore, JASS query latency is not particularly sensitive to the retrieval depth, making it an appealing solution for performance-sensitive applications where bounds on query latencies are desirable.</p>
+    <p class="pub-abstract" itemprop="text">With the growing popularity of the world-wide-web and the increasing accessibility of smart devices, data is being generated at a faster rate than ever before. This presents scalability challenges to web-scale search systems – how can we efficiently index, store and retrieve such a vast amount of data? A large amount of prior research has attempted to address many facets of this question, with the invention of a range of efficient index storage and retrieval frameworks that are able to efficiently answer most queries. However, the current literature generally focuses on improving the mean or median query processing time in a given system. In the proposed PhD project, we focus on improving the efficiency of high percentile tail latencies in large scale IR systems while minimising end-to-end effectiveness loss. Although there is a wealth of prior research involving improving the efficiency of large scale IR systems, the most relevant prior work involves predicting long-running queries and processing them in various ways to avoid large query processing times. Prediction is often done through pre-trained models based on both static and dynamic features from queries and documents. Many different approaches to reducing the processing time of long running queries have been proposed, including parallelising queries that are predicted to run slowly, scheduling queries based on their predicted run time, and selecting or modifying the query processing algorithm depending on the load of the system. Considering the specific focus on tail latencies in large-scale IR systems, the proposed research aims to: (i) study what causes large tail latencies to occur in large-scale web search systems, (ii) propose a framework to mitigate tail latencies in multi-stage retrieval through the prediction of a vast range of query-specific efficiency parameters, (iii) experiment with mixed-mode query semantics to provide efficient and effective querying to reduce tail latencies, and (iv) propose a time-bounded solution for Document-at-a-Time (DaaT) query processing which is suitable for current web search systems. As a preliminary study, Crane et al. compared some state-of-the-art query processing strategies across many modern collections. They found that although modern DaaT dynamic pruning strategies are very efficient for ranked disjunctive processing, they have a much larger variance in processing times than Score-at-a-Time (SaaT) strategies which have a similar efficiency profile regardless of query length or the size of the required result set. Furthermore, Mackenzie et al. explored the efficiency trade-offs for paragraph retrieval in a multi-stage question answering system. They found that DaaT dynamic pruning strategies could efficiently retrieve the top-1,000 candidate paragraphs for very long queries. Extending on prior work, Mackenzie et al. showed how a range of per-query efficiency settings can be accurately predicted such that 99.99 percent of queries are serviced in less than 200 ms without noticeable effectiveness loss. In addition, a reference list framework was used for training models such that no relevance judgements or annotations were required. Future work will focus on improving the candidate generation stage in large-scale multi-stage retrieval systems. This will include further exploration of index layouts, traversal strategies, and query rewriting, with the aim of improving early stage efficiency to reduce the system tail latency, while potentially improving end-to-end effectiveness.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the Tenth ACM International Conference on Web Search and Data Mining (WSDM 2017)</div>
+          <div class="col-xs-12 col-sm-9">Proceedings of the 40th International ACM Conference on Research and Development in Information Retrieval (SIGIR 2017)</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -148,7 +148,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            February, 2017
+            August, 2017
           </div>
         </div>
       </div>
@@ -168,7 +168,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://JMMackenzie.github.io/pdf/cclmt17-wsdm.pdf">
+<a class="btn btn-primary btn-outline" href="http://JMMackenzie.github.io/pdf/dc-ee.pdf">
   PDF
 </a>
 
@@ -199,13 +199,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="http://jmmackenzie.github.io/publication/liveqa/"><span
-      aria-hidden="true">&larr;</span> RMIT at the TREC 2016 LiveQA Track</a></li>
+    <li class="previous"><a href="http://jmmackenzie.github.io/publication/daat-vs-saat/"><span
+      aria-hidden="true">&larr;</span> A Comparison of Document-at-a-Time and Score-at-a-Time Query Evaluation</a></li>
     
 
-    
-    <li class="next"><a href="http://jmmackenzie.github.io/publication/dc/">Managing Tail Latencies in Large Scale IR Systems <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
