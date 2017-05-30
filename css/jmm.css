@@ -5,22 +5,30 @@
  *  https://github.com/gcushen/hugo-academic
  **************************************************/
 
+html {
+  font-family: 'Lato', serif;
+  font-size: 18px;
+  color: rgba(0,0,0,0.8);
+  line-height: 1.5;
+}
+
 /* Title under picture*/
 #profile .portrait-title h2 {
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: 300;
   color: #333;
 } 
 
 .navbar-default {
-  font-family:'Roboto Mono';
+  font-family:'Lato';
+  font-variant: small-caps;
   font-weight: 700;
   font-size: 1.3rem;
   color: #666;
 }
 
 .navbar-brand {
-  font-family:'Roboto Mono';
+  font-family:'Lato';
   font-weight: 700;
   font-size: 1.4rem;
   color: #ffccaa;

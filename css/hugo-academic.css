@@ -26,6 +26,8 @@ html {
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
+
+
 @media screen and (min-width: 58rem) {
   html {
     font-size: 20px;
@@ -178,7 +180,7 @@ blockquote p:last-child {
 
 .home-section {
   background-color: rgb(255, 255, 255);
-  padding: 110px 0 110px 0;
+  padding: 60px 0 60px 0;
 }
 @media screen and (max-width: 768px) {
   .home-section {
