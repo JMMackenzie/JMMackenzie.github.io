@@ -24,11 +24,11 @@
   <link rel="feed" href="http://JMMackenzie.github.io/index.xml" type="application/rss+xml" title="Joel Mackenzie">
 
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-  <link rel="canonical" href="http://JMMackenzie.github.io/publication/daat-vs-saat/">
+  <link rel="canonical" href="http://JMMackenzie.github.io/publication/saat-heuristics/">
 
   
 
-  <title>A Comparison of Document-at-a-Time and Score-at-a-Time Query Evaluation | Joel Mackenzie</title>
+  <title>Early Termination Heuristics for Score-at-a-Time Index Traversal | Joel Mackenzie</title>
 
 </head>
 <body id="top">
@@ -74,10 +74,10 @@
 
   <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="pub-title">
-      <h1 itemprop="name">A Comparison of Document-at-a-Time and Score-at-a-Time Query Evaluation</h1>
+      <h1 itemprop="name">Early Termination Heuristics for Score-at-a-Time Index Traversal</h1>
       <span class="pub-authors" itemprop="author">
                 
-                Matt Crane, J.Shane Culpepper, Jimmy Lin, Joel Mackenzie and Andrew Trotman
+                Joel Mackenzie, Falk Scholer and J. Shane Culpepper
                 
             </span>
       <span class="pull-right">
@@ -86,35 +86,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fdaat-vs-saat%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Comparison%20of%20Document-at-a-Time%20and%20Score-at-a-Time%20Query%20Evaluation&amp;url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fdaat-vs-saat%2f"
+         href="https://twitter.com/intent/tweet?text=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal&amp;url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fdaat-vs-saat%2f&amp;title=A%20Comparison%20of%20Document-at-a-Time%20and%20Score-at-a-Time%20Query%20Evaluation"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f&amp;title=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fdaat-vs-saat%2f&amp;title=A%20Comparison%20of%20Document-at-a-Time%20and%20Score-at-a-Time%20Query%20Evaluation"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f&amp;title=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=A%20Comparison%20of%20Document-at-a-Time%20and%20Score-at-a-Time%20Query%20Evaluation&amp;body=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fdaat-vs-saat%2f">
+         href="mailto:?subject=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal&amp;body=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -128,14 +128,14 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We present an empirical comparison between document-at-a-time (DaaT) and score-at-a-time (SaaT) document ranking strategies within a common framework. Although both strategies have been extensively explored, the literature lacks a fair, direct comparison: such a study has been difficult due to vastly different query evaluation mechanics and index organizations. Our work controls for score quantization, document processing, compression, implementation language, implementation effort, and a number of details, arriving at an empirical evaluation that fairly characterizes the performance of three specific techniques: WAND (DaaT), BMW (DaaT), and JASS (SaaT). Experiments reveal a number of interesting findings. The performance gap between WAND and BMW is not as clear as the literature suggests, and both methods are susceptible to tail queries that may take orders of magnitude longer than the median query to execute. Surprisingly, approximate query evaluation in WAND and BMW does not significantly reduce the risk of these tail queries. Overall, JASS is slightly slower than either WAND or BMW, but exhibits much lower variance in query latencies and is much less susceptible to tail query effects. Furthermore, JASS query latency is not particularly sensitive to the retrieval depth, making it an appealing solution for performance-sensitive applications where bounds on query latencies are desirable.</p>
+    <p class="pub-abstract" itemprop="text">Score-at-a-Time index traversal is a query processing approach which supports early termination in order to balance efficiency and effectiveness trade-offs. In this work, we explore new techniques which extend a modern Score-at-a-Time traversal algorithm to allow for parallel postings traversal. We show that careful integration of parallel traversal can improve both efficiency and effectiveness when compared with current single threaded early termination approaches. In addition, we explore the various trade-offs for differing early termination heuristics, and propose hybrid systems which parallelize long running queries, while processing short running queries with only a single thread.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the Tenth ACM International Conference on Web Search and Data Mining (WSDM 2017)</div>
+          <div class="col-xs-12 col-sm-9">Proceedings of the 22nd Australasian Document Computing Symposium (ADCS 2017)</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -148,7 +148,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            February, 2017
+            December, 2017
           </div>
         </div>
       </div>
@@ -168,10 +168,6 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://JMMackenzie.github.io/pdf/cclmt17-wsdm.pdf">
-  PDF
-</a>
-
 
 
 
@@ -188,6 +184,20 @@
     <div class="visible-xs space-below"></div>
 
     
+    <div class="row", style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Notes</div>
+          <div class="col-xs-12 col-sm-9" itemprop="notes">
+            To appear.
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
 
 
     <div class="space-below"></div>
@@ -199,12 +209,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="http://JMMackenzie.github.io/publication/liveqa/"><span
-      aria-hidden="true">&larr;</span> RMIT at the TREC 2016 LiveQA Track</a></li>
+    <li class="previous"><a href="http://JMMackenzie.github.io/publication/ntcirwww17/"><span
+      aria-hidden="true">&larr;</span> RMIT at the NTCIR-13 We Want Web Task</a></li>
     
 
     
-    <li class="next"><a href="http://JMMackenzie.github.io/publication/dc/">Managing Tail Latencies in Large Scale IR Systems <span
+    <li class="next"><a href="http://JMMackenzie.github.io/publication/query-driven/">Query Driven Algorithm Selection in Early Stage Retrieval <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>

@@ -1,86 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jmmackenzie.github.io/home/about/</loc>
+    <loc>http://JMMackenzie.github.io/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/home/publications/</loc>
+    <loc>http://JMMackenzie.github.io/home/publications/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/home/posts/</loc>
+    <loc>http://JMMackenzie.github.io/home/posts/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/home/projects/</loc>
+    <loc>http://JMMackenzie.github.io/home/projects/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/home/teaching/</loc>
+    <loc>http://JMMackenzie.github.io/home/teaching/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/home/other/</loc>
+    <loc>http://JMMackenzie.github.io/home/other/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/home/contact/</loc>
+    <loc>http://JMMackenzie.github.io/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/publication/dc/</loc>
+    <loc>http://JMMackenzie.github.io/publication/query-driven/</loc>
+    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://JMMackenzie.github.io/publication/saat-heuristics/</loc>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://JMMackenzie.github.io/publication/ntcirwww17/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://JMMackenzie.github.io/publication/core17/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://JMMackenzie.github.io/publication/dc/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/publication/tail-arxiv/</loc>
-    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jmmackenzie.github.io/publication/daat-vs-saat/</loc>
+    <loc>http://JMMackenzie.github.io/publication/daat-vs-saat/</loc>
     <lastmod>2017-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/publication/liveqa/</loc>
+    <loc>http://JMMackenzie.github.io/publication/liveqa/</loc>
     <lastmod>2016-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/publication/location-aware/</loc>
+    <loc>http://JMMackenzie.github.io/publication/location-aware/</loc>
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/publication/hons-thesis/</loc>
+    <loc>http://JMMackenzie.github.io/publication/hons-thesis/</loc>
     <lastmod>2015-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/home/</loc>
+    <loc>http://JMMackenzie.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://JMMackenzie.github.io/home/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/</loc>
+    <loc>http://JMMackenzie.github.io/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jmmackenzie.github.io/publication/</loc>
-    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+    <loc>http://JMMackenzie.github.io/publication/</loc>
+    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://JMMackenzie.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
