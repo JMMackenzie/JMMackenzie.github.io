@@ -24,11 +24,11 @@
   <link rel="feed" href="http://JMMackenzie.github.io/index.xml" type="application/rss+xml" title="Joel Mackenzie">
 
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-  <link rel="canonical" href="http://JMMackenzie.github.io/publication/saat-heuristics/">
+  <link rel="canonical" href="http://JMMackenzie.github.io/publication/ecir-negate/">
 
   
 
-  <title>Early Termination Heuristics for Score-at-a-Time Index Traversal | Joel Mackenzie</title>
+  <title>On the Cost of Negation for Dynamic Pruning | Joel Mackenzie</title>
 
 </head>
 <body id="top">
@@ -74,10 +74,10 @@
 
   <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="pub-title">
-      <h1 itemprop="name">Early Termination Heuristics for Score-at-a-Time Index Traversal</h1>
+      <h1 itemprop="name">On the Cost of Negation for Dynamic Pruning</h1>
       <span class="pub-authors" itemprop="author">
                 
-                Joel Mackenzie, Falk Scholer and J. Shane Culpepper
+                Joel Mackenzie, Craig Macdonald, Falk Scholer and J. Shane Culpepper
                 
             </span>
       <span class="pull-right">
@@ -86,35 +86,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fecir-negate%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal&amp;url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f"
+         href="https://twitter.com/intent/tweet?text=On%20the%20Cost%20of%20Negation%20for%20Dynamic%20Pruning&amp;url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fecir-negate%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f&amp;title=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fecir-negate%2f&amp;title=On%20the%20Cost%20of%20Negation%20for%20Dynamic%20Pruning"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f&amp;title=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fecir-negate%2f&amp;title=On%20the%20Cost%20of%20Negation%20for%20Dynamic%20Pruning"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal&amp;body=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fsaat-heuristics%2f">
+         href="mailto:?subject=On%20the%20Cost%20of%20Negation%20for%20Dynamic%20Pruning&amp;body=http%3a%2f%2fJMMackenzie.github.io%2fpublication%2fecir-negate%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -128,14 +128,14 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Score-at-a-Time index traversal is a query processing approach which supports early termination in order to balance efficiency and effectiveness trade-offs. In this work, we explore new techniques which extend a modern Score-at-a-Time traversal algorithm to allow for parallel postings traversal. We show that careful integration of parallel traversal can improve both efficiency and effectiveness when compared with current single threaded early termination approaches. In addition, we explore the various trade-offs for differing early termination heuristics, and propose hybrid systems which parallelize long running queries, while processing short running queries with only a single thread.</p>
+    <p class="pub-abstract" itemprop="text">Negated query terms allow documents containing such terms to be filtered out of a search results list, supporting disambiguation. In this work, the effect of negation on the efficiency of disjunctive, top-$k$ retrieval is examined. First, we show how negation can be integrated efficiently into two popular dynamic pruning algorithms. Then, we explore the efficiency of our approach, and show that while often efficient, negation can negatively impact the dynamic pruning effectiveness for certain queries.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the 22nd Australasian Document Computing Symposium (ADCS 2017)</div>
+          <div class="col-xs-12 col-sm-9">Proceedings of the 40th European Conference on Information Retrieval (ECIR 2018)</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -148,7 +148,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            December, 2017
+            March, 2018
           </div>
         </div>
       </div>
@@ -168,7 +168,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://JMMackenzie.github.io/pdf/msc17-adcs.pdf">
+<a class="btn btn-primary btn-outline" href="http://JMMackenzie.github.io/pdf/mmsc18-ecir.pdf">
   PDF
 </a>
 
@@ -194,7 +194,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Notes</div>
           <div class="col-xs-12 col-sm-9" itemprop="notes">
-            Runner up of the best paper award
+            To appear.
           </div>
         </div>
       </div>
@@ -213,13 +213,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="http://JMMackenzie.github.io/publication/ntcirwww17/"><span
-      aria-hidden="true">&larr;</span> RMIT at the NTCIR-13 We Want Web Task</a></li>
+    <li class="previous"><a href="http://JMMackenzie.github.io/publication/query-driven/"><span
+      aria-hidden="true">&larr;</span> Query Driven Algorithm Selection in Early Stage Retrieval</a></li>
     
 
-    
-    <li class="next"><a href="http://JMMackenzie.github.io/publication/query-driven/">Query Driven Algorithm Selection in Early Stage Retrieval <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
