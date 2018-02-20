@@ -8,7 +8,77 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Joel Mackenzie</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://JMMackenzie.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://JMMackenzie.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.github.io/home/about/</guid>
+      <description>About I am a PhD candidate at RMIT University in Melbourne, Australia. I am working in the field of Information Retrieval, with Associate Professor J. Shane Culpepper and Associate Professor Falk Scholer. My current research interests include distributed IR, selective search, dynamic pruning, compression, index efficiency and evaluation.
+Previously, I worked on location-aware retrieval strategies for efficient and effective location-aware web search. I have also done some work on query log analysis, and automated question answering.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://JMMackenzie.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://JMMackenzie.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://JMMackenzie.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://JMMackenzie.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.github.io/home/teaching/</guid>
+      <description>I am currently the head tutor for the Programming Fundamentals course, and tutor for the Information Retrieval course at RMIT University.
+I have previously been a tutor and/or a lab assistant for the following courses at RMIT University:
+ COSC1105/COSC1007: Computing Theory COSC2406/COSC2407: Database Systems COSC1112/COSC1114: Operating Systems Principles  </description>
+    </item>
+    
+    <item>
+      <title>Other Duties</title>
+      <link>http://JMMackenzie.github.io/home/other/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.github.io/home/other/</guid>
+      <description>I have been a PC member for conferences such as:
+ CIKM 2017  I have also been a subreviewer for conferences such as:
+ ADCS 2017 SIGIR 2017 ADCS 2016 SIGIR 2016  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://JMMackenzie.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
