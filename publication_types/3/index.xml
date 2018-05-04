@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Joel Mackenzie</title>
+    <link>http://JMMackenzie.io/publication_types/3/</link>
+    <description>Recent content in 3 on Joel Mackenzie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Joel Mackenzie</copyright>
+    <lastBuildDate>Fri, 30 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://JMMackenzie.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficiency-Effectiveness Trade-offs for Location Aware Search</title>
+      <link>http://JMMackenzie.io/publication/hons-thesis/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.io/publication/hons-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
