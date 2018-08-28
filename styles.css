@@ -25,14 +25,14 @@
 }
 
 html {
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Alegreya', sans-serif;
   font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -79,7 +79,7 @@ ul, ol, dl {
 
 /* Navigation bar text */
 .navbar-default {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Cinzel', sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
@@ -87,7 +87,7 @@ ul, ol, dl {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Cinzel', sans-serif;
   font-weight: 400;
   margin-bottom: .5rem;
   line-height: 1.25;
@@ -148,7 +148,7 @@ figcaption {
   line-height: 1.25;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Cinzel', sans-serif;
   counter-increment: captions;
 }
 
@@ -161,7 +161,7 @@ figcaption h4 {
 
 pre,
 code {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'ABeeZee', monospace;
   color: #c7254e;
   background-color: #f9f2f4;
 }
@@ -831,7 +831,7 @@ article .article-metadata {
 }
 
 .dark .card-simple {
-  background: rgb(40, 42, 54);
+  background: rgb(54, 54, 58);
   box-shadow: 0 1px 4px rgba(0,0,0,.04);
   border: 1px solid rgb(68, 71, 90);
 }
@@ -1505,7 +1505,7 @@ body.dark {
 }
 
 .dark .card {
-  background: rgb(10, 12, 24);
+  background: rgb(10, 10, 10);
   box-shadow: 0 2px 4px 0 rgba(255, 255, 255, 0.2);
 }
 

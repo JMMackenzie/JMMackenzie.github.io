@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on Joel Mackenzie</title>
+    <link>http://JMMackenzie.io/service/</link>
+    <description>Recent content in Service on Joel Mackenzie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Joel Mackenzie</copyright>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="http://JMMackenzie.io/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Service</title>
+      <link>http://JMMackenzie.io/service/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JMMackenzie.io/service/service/</guid>
+      <description>I have been a PC member for conferences such as:
+ CIKM 2017 CIKM 2018  I have also been a subreviewer for conferences such as:
+ ADCS 2017 SIGIR 2017 ADCS 2016 SIGIR 2016  </description>
+    </item>
+    
+  </channel>
+</rss>
