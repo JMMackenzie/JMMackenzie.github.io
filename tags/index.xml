@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joel Mackenzie</title>
-    <link>http://JMMackenzie.io/tags/</link>
+    <link>https://JMMackenzie.io/tags/</link>
     <description>Recent content in Tags on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Joel Mackenzie</copyright>
     
-	<atom:link href="http://JMMackenzie.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://JMMackenzie.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

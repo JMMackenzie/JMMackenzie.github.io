@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Joel Mackenzie</title>
-    <link>http://JMMackenzie.io/home/</link>
+    <link>https://JMMackenzie.io/home/</link>
     <description>Recent content in Homes on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Joel Mackenzie</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://JMMackenzie.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://JMMackenzie.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://JMMackenzie.io/home/about/</link>
+      <link>https://JMMackenzie.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/home/about/</guid>
+      <guid>https://JMMackenzie.io/home/about/</guid>
       <description>About I am a PhD candidate at RMIT University in Melbourne, Australia. I am working in the field of Information Retrieval, with Associate Professor J. Shane Culpepper and Associate Professor Falk Scholer. My current research interests include distributed IR, selective search, dynamic pruning, compression, index efficiency, and evaluation. I also have a broad interest in operating systems, data structures, and algorithms.
 Previously, I worked on location-aware retrieval strategies for efficient and effective location-aware web search.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>http://JMMackenzie.io/home/publications_selected/</link>
+      <link>https://JMMackenzie.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>http://JMMackenzie.io/home/publications_selected/</guid>
+      <guid>https://JMMackenzie.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://JMMackenzie.io/home/talks/</link>
+      <link>https://JMMackenzie.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/home/talks/</guid>
+      <guid>https://JMMackenzie.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://JMMackenzie.io/home/projects/</link>
+      <link>https://JMMackenzie.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/home/projects/</guid>
+      <guid>https://JMMackenzie.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://JMMackenzie.io/home/posts/</link>
+      <link>https://JMMackenzie.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/home/posts/</guid>
+      <guid>https://JMMackenzie.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://JMMackenzie.io/home/contact/</link>
+      <link>https://JMMackenzie.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/home/contact/</guid>
+      <guid>https://JMMackenzie.io/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>http://JMMackenzie.io/home/tags/</link>
+      <link>https://JMMackenzie.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +1000</pubDate>
       
-      <guid>http://JMMackenzie.io/home/tags/</guid>
+      <guid>https://JMMackenzie.io/home/tags/</guid>
       <description></description>
     </item>
     

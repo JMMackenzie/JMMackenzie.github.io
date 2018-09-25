@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 on Joel Mackenzie</title>
-    <link>http://JMMackenzie.io/publication_types/4/</link>
+    <link>https://JMMackenzie.io/publication_types/4/</link>
     <description>Recent content in 4 on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Joel Mackenzie</copyright>
     <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://JMMackenzie.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://JMMackenzie.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Towards Efficient and Effective Query Variant Generation</title>
-      <link>http://JMMackenzie.io/publication/desires18/</link>
+      <link>https://JMMackenzie.io/publication/desires18/</link>
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/publication/desires18/</guid>
+      <guid>https://JMMackenzie.io/publication/desires18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RMIT at the NTCIR-13 We Want Web Task</title>
-      <link>http://JMMackenzie.io/publication/ntcirwww17/</link>
+      <link>https://JMMackenzie.io/publication/ntcirwww17/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/publication/ntcirwww17/</guid>
+      <guid>https://JMMackenzie.io/publication/ntcirwww17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RMIT at the TREC 2017 CORE Track</title>
-      <link>http://JMMackenzie.io/publication/core17/</link>
+      <link>https://JMMackenzie.io/publication/core17/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/publication/core17/</guid>
+      <guid>https://JMMackenzie.io/publication/core17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RMIT at the TREC 2016 LiveQA Track</title>
-      <link>http://JMMackenzie.io/publication/liveqa/</link>
+      <link>https://JMMackenzie.io/publication/liveqa/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/publication/liveqa/</guid>
+      <guid>https://JMMackenzie.io/publication/liveqa/</guid>
       <description></description>
     </item>
     

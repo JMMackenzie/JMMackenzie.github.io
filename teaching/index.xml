@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Joel Mackenzie</title>
-    <link>http://JMMackenzie.io/teaching/</link>
+    <link>https://JMMackenzie.io/teaching/</link>
     <description>Recent content in Teaching on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Joel Mackenzie</copyright>
     <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +1000</lastBuildDate>
     
-	<atom:link href="http://JMMackenzie.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://JMMackenzie.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teaching</title>
-      <link>http://JMMackenzie.io/teaching/teaching/</link>
+      <link>https://JMMackenzie.io/teaching/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://JMMackenzie.io/teaching/teaching/</guid>
+      <guid>https://JMMackenzie.io/teaching/teaching/</guid>
       <description>I have previously been a tutor and/or a lab assistant for the following courses at RMIT University:
  COSC1105/COSC1007: Computing Theory COSC2406/COSC2407: Database Systems COSC1112/COSC1114: Operating Systems Principles ISYS1078/ISYS1079: Information Retrieval COSC2531: Programming Fundamentals (Head Tutor)  </description>
     </item>
