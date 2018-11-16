@@ -54,9 +54,27 @@
     </item>
     
     <item>
+      <title>Revisiting Spam Filtering in Web Search</title>
+      <link>https://JMMackenzie.io/publication/spam/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/spam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Search Performance Using Query Variations</title>
+      <link>https://JMMackenzie.io/publication/boost/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/boost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RMIT at the 2018 TREC CORE Track</title>
       <link>https://JMMackenzie.io/publication/core18/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/core18/</guid>
       <description></description>
@@ -149,15 +167,6 @@
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/location-aware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficiency-Effectiveness Trade-offs for Location Aware Search</title>
-      <link>https://JMMackenzie.io/publication/hons-thesis/</link>
-      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/hons-thesis/</guid>
       <description></description>
     </item>
     
