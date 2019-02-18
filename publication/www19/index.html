@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Score-at-a-Time index traversal is a query processing approach which supports early termination in order to balance efficiency and effectiveness trade-offs. In this work, we explore new techniques which extend a modern Score-at-a-Time traversal algorithm to allow for parallel postings traversal. We show that careful integration of parallel traversal can improve both efficiency and effectiveness when compared with current single threaded early termination approaches. In addition, we explore the various trade-offs for differing early termination heuristics, and propose hybrid systems which parallelize long running queries, while processing short running queries with only a single thread.">
+  <meta name="description" content="Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/saat-heuristics/">
+  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/www19/">
 
   
 
@@ -82,24 +82,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://JMMackenzie.io/publication/saat-heuristics/">
+  <link rel="canonical" href="https://JMMackenzie.io/publication/www19/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Joel Mackenzie">
-  <meta property="og:url" content="https://JMMackenzie.io/publication/saat-heuristics/">
-  <meta property="og:title" content="Early Termination Heuristics for Score-at-a-Time Index Traversal | Joel Mackenzie">
-  <meta property="og:description" content="Score-at-a-Time index traversal is a query processing approach which supports early termination in order to balance efficiency and effectiveness trade-offs. In this work, we explore new techniques which extend a modern Score-at-a-Time traversal algorithm to allow for parallel postings traversal. We show that careful integration of parallel traversal can improve both efficiency and effectiveness when compared with current single threaded early termination approaches. In addition, we explore the various trade-offs for differing early termination heuristics, and propose hybrid systems which parallelize long running queries, while processing short running queries with only a single thread.">
+  <meta property="og:url" content="https://JMMackenzie.io/publication/www19/">
+  <meta property="og:title" content="Exploring User Behavior in Email Re-Finding Tasks | Joel Mackenzie">
+  <meta property="og:description" content="Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-12-08T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-02-17T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2017-12-08T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2019-05-13T00:00:00&#43;00:00">
   
 
-  <title>Early Termination Heuristics for Score-at-a-Time Index Traversal | Joel Mackenzie</title>
+  
+
+  <title>Exploring User Behavior in Email Re-Finding Tasks | Joel Mackenzie</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
@@ -219,10 +219,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Early Termination Heuristics for Score-at-a-Time Index Traversal</h1>
+    <h1 itemprop="name">Exploring User Behavior in Email Re-Finding Tasks</h1>
     <span class="pub-authors" itemprop="author">
       
-      J. Mackenzie, F. Scholer and J. S. Culpepper
+      J. Mackenzie, K. Gupta, F. Qiao, A. H. Awadallah, and M. Shokouhi
       
     </span>
     <span class="pull-right">
@@ -231,35 +231,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsaat-heuristics%2f"
+         href="https://twitter.com/intent/tweet?text=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsaat-heuristics%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsaat-heuristics%2f&amp;title=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f&amp;title=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsaat-heuristics%2f&amp;title=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f&amp;title=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Early%20Termination%20Heuristics%20for%20Score-at-a-Time%20Index%20Traversal&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsaat-heuristics%2f">
+         href="mailto:?subject=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -273,7 +273,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Score-at-a-Time index traversal is a query processing approach which supports early termination in order to balance efficiency and effectiveness trade-offs. In this work, we explore new techniques which extend a modern Score-at-a-Time traversal algorithm to allow for parallel postings traversal. We show that careful integration of parallel traversal can improve both efficiency and effectiveness when compared with current single threaded early termination approaches. In addition, we explore the various trade-offs for differing early termination heuristics, and propose hybrid systems which parallelize long running queries, while processing short running queries with only a single thread.</p>
+    <p class="pub-abstract" itemprop="text">Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities</p>
     
 
     
@@ -302,7 +302,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the 22nd Australasian Document Computing Symposium (ADCS 2017)</div>
+          <div class="col-xs-12 col-sm-9">Proceedings of the 2019 World Wide Web Conference</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -316,7 +316,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            December, 2017
+            May, 2019
           </div>
         </div>
       </div>
@@ -335,10 +335,6 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/msc17-adcs.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
