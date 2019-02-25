@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities">
+  <meta name="description" content="Document reordering is an important but often overlooked preprocessing stage in index construction. Reordering document identifiers in graphs and inverted indexes has been shown to reduce storage costs and improve processing efficiency in the resulting indexes. However, surprisingly few document reordering algorithms are publicly available despite their importance. A new reordering algorithm derived from recursive graph bisection was recently proposed by Dhulipala (KDD 2016), and shown to be highly effective and efficient when compared against other state-of-the-art reordering strategies. In this work, we present a reproducibility study of this new algorithm. We describe the implementation challenges encountered, and explore the performance characteristics of our clean-room reimplementation. We show that we are able to successfully reproduce the core results of the original paper, and show that the algorithm generalizes to other collections and indexing frameworks. Furthermore, we make our implementation publicly available to help promote further research in this space.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/www19/">
+  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/ecir19/">
 
   
 
@@ -82,24 +82,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://JMMackenzie.io/publication/www19/">
+  <link rel="canonical" href="https://JMMackenzie.io/publication/ecir19/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Joel Mackenzie">
-  <meta property="og:url" content="https://JMMackenzie.io/publication/www19/">
-  <meta property="og:title" content="Exploring User Behavior in Email Re-Finding Tasks | Joel Mackenzie">
-  <meta property="og:description" content="Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities">
+  <meta property="og:url" content="https://JMMackenzie.io/publication/ecir19/">
+  <meta property="og:title" content="Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study | Joel Mackenzie">
+  <meta property="og:description" content="Document reordering is an important but often overlooked preprocessing stage in index construction. Reordering document identifiers in graphs and inverted indexes has been shown to reduce storage costs and improve processing efficiency in the resulting indexes. However, surprisingly few document reordering algorithms are publicly available despite their importance. A new reordering algorithm derived from recursive graph bisection was recently proposed by Dhulipala (KDD 2016), and shown to be highly effective and efficient when compared against other state-of-the-art reordering strategies. In this work, we present a reproducibility study of this new algorithm. We describe the implementation challenges encountered, and explore the performance characteristics of our clean-room reimplementation. We show that we are able to successfully reproduce the core results of the original paper, and show that the algorithm generalizes to other collections and indexing frameworks. Furthermore, we make our implementation publicly available to help promote further research in this space.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-02-17T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-01-22T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-05-13T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2019-04-15T00:00:00&#43;00:00">
   
 
-  <title>Exploring User Behavior in Email Re-Finding Tasks | Joel Mackenzie</title>
+  
+
+  <title>Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study | Joel Mackenzie</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
@@ -219,10 +219,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Exploring User Behavior in Email Re-Finding Tasks</h1>
+    <h1 itemprop="name">Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study</h1>
     <span class="pub-authors" itemprop="author">
       
-      J. Mackenzie, K. Gupta, F. Qiao, A. H. Awadallah, and M. Shokouhi
+      J. Mackenzie, A. Mallia, M. Petri, J. S. Culpepper, and T. Suel
       
     </span>
     <span class="pull-right">
@@ -231,35 +231,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f"
+         href="https://twitter.com/intent/tweet?text=Compressing%20Inverted%20Indexes%20with%20Recursive%20Graph%20Bisection%3a%20A%20Reproducibility%20Study&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fecir19%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2fecir19%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f&amp;title=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fecir19%2f&amp;title=Compressing%20Inverted%20Indexes%20with%20Recursive%20Graph%20Bisection%3a%20A%20Reproducibility%20Study"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f&amp;title=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fecir19%2f&amp;title=Compressing%20Inverted%20Indexes%20with%20Recursive%20Graph%20Bisection%3a%20A%20Reproducibility%20Study"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f">
+         href="mailto:?subject=Compressing%20Inverted%20Indexes%20with%20Recursive%20Graph%20Bisection%3a%20A%20Reproducibility%20Study&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2fecir19%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -273,7 +273,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities</p>
+    <p class="pub-abstract" itemprop="text">Document reordering is an important but often overlooked preprocessing stage in index construction. Reordering document identifiers in graphs and inverted indexes has been shown to reduce storage costs and improve processing efficiency in the resulting indexes. However, surprisingly few document reordering algorithms are publicly available despite their importance. A new reordering algorithm derived from recursive graph bisection was recently proposed by Dhulipala (KDD 2016), and shown to be highly effective and efficient when compared against other state-of-the-art reordering strategies. In this work, we present a reproducibility study of this new algorithm. We describe the implementation challenges encountered, and explore the performance characteristics of our clean-room reimplementation. We show that we are able to successfully reproduce the core results of the original paper, and show that the algorithm generalizes to other collections and indexing frameworks. Furthermore, we make our implementation publicly available to help promote further research in this space.</p>
     
 
     
@@ -302,7 +302,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the 2019 World Wide Web Conference</div>
+          <div class="col-xs-12 col-sm-9">Proceedings of the 41st European Conference on Information Retrieval (ECIR 2019)</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -316,7 +316,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            May, 2019
+            April, 2019
           </div>
         </div>
       </div>
@@ -336,7 +336,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/mg&#43;19-www.pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/mm&#43;19-ecir.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 

@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities">
+  <meta name="description" content="Rank fusion is a powerful technique that allows multiple sources of information to be combined into a single result set. However, to date fusion has not been regarded as being cost-effective in cases where strict per-query efficiency guarantees are required, such as in web search. In this work we propose a novel solution to rank fusion by splitting the computation into two parts -- one phase that is carried out offline to generate pre-computed centroid answers for queries with broadly similar information needs, and then a second online phase that uses the corresponding topic centroid to compute a result page for each query. We explore efficiency improvements to classic fusion algorithms whose costs can be amortized as a pre-processing step, and can then be combined with re-ranking approaches to dramatically improve effectiveness in multi-stage retrieval systems with little efficiency overhead at query time. Experimental results using the ClueWeb12B collection and the UQV100 query variations demonstrate that centroid-based approaches allow improved retrieval effectiveness at little or no loss in query throughput or latency, and with reasonable pre-processing requirements. We additionally show that queries that do not match any of the pre-computed clusters can be accurately identified and efficiently processed in our proposed ranking pipeline.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/www19/">
+  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/arxiv18/">
 
   
 
@@ -82,24 +82,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://JMMackenzie.io/publication/www19/">
+  <link rel="canonical" href="https://JMMackenzie.io/publication/arxiv18/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Joel Mackenzie">
-  <meta property="og:url" content="https://JMMackenzie.io/publication/www19/">
-  <meta property="og:title" content="Exploring User Behavior in Email Re-Finding Tasks | Joel Mackenzie">
-  <meta property="og:description" content="Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities">
+  <meta property="og:url" content="https://JMMackenzie.io/publication/arxiv18/">
+  <meta property="og:title" content="Boosting Search Performance Using Query Variations | Joel Mackenzie">
+  <meta property="og:description" content="Rank fusion is a powerful technique that allows multiple sources of information to be combined into a single result set. However, to date fusion has not been regarded as being cost-effective in cases where strict per-query efficiency guarantees are required, such as in web search. In this work we propose a novel solution to rank fusion by splitting the computation into two parts -- one phase that is carried out offline to generate pre-computed centroid answers for queries with broadly similar information needs, and then a second online phase that uses the corresponding topic centroid to compute a result page for each query. We explore efficiency improvements to classic fusion algorithms whose costs can be amortized as a pre-processing step, and can then be combined with re-ranking approaches to dramatically improve effectiveness in multi-stage retrieval systems with little efficiency overhead at query time. Experimental results using the ClueWeb12B collection and the UQV100 query variations demonstrate that centroid-based approaches allow improved retrieval effectiveness at little or no loss in query throughput or latency, and with reasonable pre-processing requirements. We additionally show that queries that do not match any of the pre-computed clusters can be accurately identified and efficiently processed in our proposed ranking pipeline.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-02-17T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-11-15T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-05-13T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-11-15T00:00:00&#43;00:00">
   
 
-  <title>Exploring User Behavior in Email Re-Finding Tasks | Joel Mackenzie</title>
+  
+
+  <title>Boosting Search Performance Using Query Variations | Joel Mackenzie</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
@@ -219,10 +219,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Exploring User Behavior in Email Re-Finding Tasks</h1>
+    <h1 itemprop="name">Boosting Search Performance Using Query Variations</h1>
     <span class="pub-authors" itemprop="author">
       
-      J. Mackenzie, K. Gupta, F. Qiao, A. H. Awadallah, and M. Shokouhi
+      R. Benham, J. Mackenzie, A. Moffat, and J. S. Culpepper
       
     </span>
     <span class="pull-right">
@@ -231,35 +231,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f"
+         href="https://twitter.com/intent/tweet?text=Boosting%20Search%20Performance%20Using%20Query%20Variations&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2farxiv18%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2farxiv18%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f&amp;title=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2farxiv18%2f&amp;title=Boosting%20Search%20Performance%20Using%20Query%20Variations"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f&amp;title=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2farxiv18%2f&amp;title=Boosting%20Search%20Performance%20Using%20Query%20Variations"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f">
+         href="mailto:?subject=Boosting%20Search%20Performance%20Using%20Query%20Variations&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2farxiv18%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -273,7 +273,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities</p>
+    <p class="pub-abstract" itemprop="text">Rank fusion is a powerful technique that allows multiple sources of information to be combined into a single result set. However, to date fusion has not been regarded as being cost-effective in cases where strict per-query efficiency guarantees are required, such as in web search. In this work we propose a novel solution to rank fusion by splitting the computation into two parts &ndash; one phase that is carried out offline to generate pre-computed centroid answers for queries with broadly similar information needs, and then a second online phase that uses the corresponding topic centroid to compute a result page for each query. We explore efficiency improvements to classic fusion algorithms whose costs can be amortized as a pre-processing step, and can then be combined with re-ranking approaches to dramatically improve effectiveness in multi-stage retrieval systems with little efficiency overhead at query time. Experimental results using the ClueWeb12B collection and the UQV100 query variations demonstrate that centroid-based approaches allow improved retrieval effectiveness at little or no loss in query throughput or latency, and with reasonable pre-processing requirements. We additionally show that queries that do not match any of the pre-computed clusters can be accurately identified and efficiently processed in our proposed ranking pipeline.</p>
     
 
     
@@ -284,8 +284,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#4">
+              Report
             </a>
             
           </div>
@@ -302,7 +302,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the 2019 World Wide Web Conference</div>
+          <div class="col-xs-12 col-sm-9">arXiv Preprint</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -316,7 +316,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            May, 2019
+            November, 2018
           </div>
         </div>
       </div>
@@ -336,7 +336,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/mg&#43;19-www.pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/bmmc18-arxiv.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 

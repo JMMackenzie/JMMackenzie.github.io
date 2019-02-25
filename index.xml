@@ -68,28 +68,28 @@
     
     <item>
       <title>Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study</title>
-      <link>https://JMMackenzie.io/publication/ecir19-bisect/</link>
+      <link>https://JMMackenzie.io/publication/ecir19/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/ecir19-bisect/</guid>
+      <guid>https://JMMackenzie.io/publication/ecir19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting Spam Filtering in Web Search</title>
-      <link>https://JMMackenzie.io/publication/spam/</link>
+      <link>https://JMMackenzie.io/publication/adcs18/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/spam/</guid>
+      <guid>https://JMMackenzie.io/publication/adcs18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boosting Search Performance Using Query Variations</title>
-      <link>https://JMMackenzie.io/publication/boost/</link>
+      <link>https://JMMackenzie.io/publication/arxiv18/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/boost/</guid>
+      <guid>https://JMMackenzie.io/publication/arxiv18/</guid>
       <description></description>
     </item>
     
@@ -113,37 +113,37 @@
     
     <item>
       <title>On the Cost of Negation for Dynamic Pruning</title>
-      <link>https://JMMackenzie.io/publication/ecir-negate/</link>
+      <link>https://JMMackenzie.io/publication/ecir18/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/ecir-negate/</guid>
+      <guid>https://JMMackenzie.io/publication/ecir18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Query Driven Algorithm Selection in Early Stage Retrieval</title>
-      <link>https://JMMackenzie.io/publication/query-driven/</link>
+      <link>https://JMMackenzie.io/publication/wsdm18/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/query-driven/</guid>
+      <guid>https://JMMackenzie.io/publication/wsdm18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early Termination Heuristics for Score-at-a-Time Index Traversal</title>
-      <link>https://JMMackenzie.io/publication/saat-heuristics/</link>
+      <link>https://JMMackenzie.io/publication/adcs17/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/saat-heuristics/</guid>
+      <guid>https://JMMackenzie.io/publication/adcs17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RMIT at the NTCIR-13 We Want Web Task</title>
-      <link>https://JMMackenzie.io/publication/ntcirwww17/</link>
+      <link>https://JMMackenzie.io/publication/ntcir17/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/ntcirwww17/</guid>
+      <guid>https://JMMackenzie.io/publication/ntcir17/</guid>
       <description></description>
     </item>
     
@@ -158,19 +158,19 @@
     
     <item>
       <title>Managing Tail Latencies in Large Scale IR Systems</title>
-      <link>https://JMMackenzie.io/publication/dc/</link>
+      <link>https://JMMackenzie.io/publication/sigir17/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/dc/</guid>
+      <guid>https://JMMackenzie.io/publication/sigir17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Comparison of Document-at-a-Time and Score-at-a-Time Query Evaluation</title>
-      <link>https://JMMackenzie.io/publication/daat-vs-saat/</link>
+      <link>https://JMMackenzie.io/publication/wsdm17/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/publication/daat-vs-saat/</guid>
+      <guid>https://JMMackenzie.io/publication/wsdm17/</guid>
       <description></description>
     </item>
     
