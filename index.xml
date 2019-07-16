@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Mackenzie on Joel Mackenzie</title>
@@ -6,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Joel Mackenzie</copyright>
-    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -52,10 +53,20 @@
 &lt;li&gt;&lt;a href=&#34;http://sigir.org/sigir2017/&#34; target=&#34;_blank&#34;&gt;SIGIR 2017&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.vldb.org/2017/&#34; target=&#34;_blank&#34;&gt;VLDB 2017&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://journals.sagepub.com/home/jis&#34; target=&#34;_blank&#34;&gt;The Journal of Information Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spire19.lbd.org.es/&#34; target=&#34;_blank&#34;&gt;SPIRE 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Boosting Search Performance Using Query Variations</title>
+      <link>https://JMMackenzie.io/publication/tois19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/tois19/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -64,6 +75,15 @@
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/sigir19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PISA: Performant Indexes and Search for Academia</title>
+      <link>https://JMMackenzie.io/publication/osirrc19/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/osirrc19/</guid>
       <description></description>
     </item>
     
@@ -91,15 +111,6 @@
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/adcs18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boosting Search Performance Using Query Variations</title>
-      <link>https://JMMackenzie.io/publication/arxiv18/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/arxiv18/</guid>
       <description></description>
     </item>
     
@@ -163,15 +174,6 @@
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/core17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Managing Tail Latencies in Large Scale IR Systems</title>
-      <link>https://JMMackenzie.io/publication/sigir17/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir17/</guid>
       <description></description>
     </item>
     

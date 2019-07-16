@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
@@ -22,9 +23,8 @@
     
     <url>
     
-      <loc>https://JMMackenzie.io/publication_types/1/</loc>
-      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>https://JMMackenzie.io/publication/tois19/</loc>
+      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -41,19 +41,8 @@
     
     <url>
     
-      <loc>https://JMMackenzie.io/</loc>
+      <loc>https://JMMackenzie.io/publication/osirrc19/</loc>
       <lastmod>2019-07-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://JMMackenzie.io/publication_types/</loc>
-      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -81,25 +70,6 @@
     
       <loc>https://JMMackenzie.io/publication/adcs18/</loc>
       <lastmod>2018-12-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://JMMackenzie.io/publication_types/4/</loc>
-      <lastmod>2018-11-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://JMMackenzie.io/publication/arxiv18/</loc>
-      <lastmod>2018-11-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -233,7 +203,57 @@
     
     <url>
     
+      <loc>https://JMMackenzie.io/publication_types/1/</loc>
+      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://JMMackenzie.io/publication_types/2/</loc>
+      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://JMMackenzie.io/publication_types/4/</loc>
+      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://JMMackenzie.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://JMMackenzie.io/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://JMMackenzie.io/publication_types/</loc>
+      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

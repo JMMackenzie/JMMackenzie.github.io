@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.55.5" />
+  <meta name="generator" content="Hugo 0.54.0" />
   
 
   
@@ -268,6 +268,9 @@
         
         
       
+        
+        
+      
 
       <p>
         Filter by type:
@@ -277,6 +280,10 @@
           
           <option value=".pubtype-1">
             Conference paper
+          </option>
+          
+          <option value=".pubtype-2">
+            Journal article
           </option>
           
           <option value=".pubtype-4">
@@ -315,6 +322,134 @@
       </p>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-2 year-2019">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/tois19/" itemprop="url">Boosting Search Performance Using Query Variations</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Rank fusion is a powerful technique that allows multiple sources of information to be combined into a single result set. However, to date fusion has not been regarded as being cost-effective in cases where strict per-query efficiency guarantees are required, such as in web search. In this work we propose a novel solution to rank fusion by splitting the computation into two parts &ndash; one phase that is carried out offline to generate pre-computed centroid answers for queries with broadly similar information needs, and then a second online phase that uses the corresponding topic centroid to compute a result page for each query. We explore efficiency improvements to classic fusion algorithms whose costs can be amortized as a pre-processing step, and can then be combined with re-ranking approaches to dramatically improve effectiveness in multi-stage retrieval systems with little efficiency overhead at query time. Experimental results using the ClueWeb12B collection and the UQV100 query variations demonstrate that centroid-based approaches allow improved retrieval effectiveness at little or no loss in query throughput or latency, and with reasonable pre-processing requirements. We additionally show that queries that do not match any of the pre-computed clusters can be accurately identified and efficiently processed in our proposed ranking pipeline.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    R. Benham, J. Mackenzie, A. Moffat, and J. S. Culpepper
+    
+  </div>
+
+  <div class="pub-publication">
+    TOIS,
+    2019</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/bmmc19-tois-preprint.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-4 year-2019">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/osirrc19/" itemprop="url">PISA: Performant Indexes and Search for Academia</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Performant Indexes and Search for Academia (PISA) is an experimental search engine that focuses on efficient implementations of state-of-the-art representations and algorithms for text retrieval. In this work, we outline our effort in creating a replicable search run from PISA for the 2019 Open Source Information Retrieval Replicability Challenge, which encourages the information retrieval community to produce replicable systems through the use of a containerized, Docker-based infrastructure. We also discuss the origins, current functionality, and future direction and challenges for the PISA system.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    A. Mallia, M. Siedlaczek, J. Mackenzie, and T. Suel
+    
+  </div>
+
+  <div class="pub-publication">
+    OSIRRC,
+    2019</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/ms&#43;19-osirrc.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
         
 
         
@@ -547,70 +682,6 @@
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/gmc18-adcs.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-md-12 isotope-item pubtype-4 year-2018">
-          
-            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
-
-  
-  
-
-  <h3 class="article-title" itemprop="name">
-    <a href="https://JMMackenzie.io/publication/arxiv18/" itemprop="url">Boosting Search Performance Using Query Variations</a>
-  </h3>
-
-  <div class="pub-abstract" itemprop="text">
-    
-    Rank fusion is a powerful technique that allows multiple sources of information to be combined into a single result set. However, to date fusion has not been regarded as being cost-effective in cases where strict per-query efficiency guarantees are required, such as in web search. In this work we propose a novel solution to rank fusion by splitting the computation into two parts &ndash; one phase that is carried out offline to generate pre-computed centroid answers for queries with broadly similar information needs, and then a second online phase that uses the corresponding topic centroid to compute a result page for each query. We explore efficiency improvements to classic fusion algorithms whose costs can be amortized as a pre-processing step, and can then be combined with re-ranking approaches to dramatically improve effectiveness in multi-stage retrieval systems with little efficiency overhead at query time. Experimental results using the ClueWeb12B collection and the UQV100 query variations demonstrate that centroid-based approaches allow improved retrieval effectiveness at little or no loss in query throughput or latency, and with reasonable pre-processing requirements. We additionally show that queries that do not match any of the pre-computed clusters can be accurately identified and efficiently processed in our proposed ranking pipeline.
-    
-  </div>
-
-  <div class="pub-authors" itemprop="author">
-    
-    R. Benham, J. Mackenzie, A. Moffat, and J. S. Culpepper
-    
-  </div>
-
-  <div class="pub-publication">
-    arXiv,
-    2018</div>
-
-  <div class="pub-links">
-    
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/bmmc18-arxiv.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 

@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Processing top-$k$ bag-of-words queries is critical to many information retrieval applications, including web-scale search. In this work, we consider algorithmic properties associated with dynamic pruning mechanisms. Such algorithms maintain a score threshold (the $k$th highest similarity score identified so far) so that low-scoring documents can be bypassed, allowing fast top-$k$ retrieval with no loss in effectiveness. In standard pruning algorithms the score threshold is initialized to the lowest possible value. To accelerate processing, we make use of term- and query-dependent features to predict the final value of that threshold, and then employ the predicted value right from the commencement of processing. Because of the asymmetry associated with prediction errors (if the estimated threshold is too high the query will need to be re-executed in order to assure the correct answer), the prediction process must be risk-sensitive. We explore techniques for balancing those factors, and provide detailed experimental results that show the practical usefulness of the new approach.">
+  <meta name="description" content="Rank fusion is a powerful technique that allows multiple sources of information to be combined into a single result set. However, to date fusion has not been regarded as being cost-effective in cases where strict per-query efficiency guarantees are required, such as in web search. In this work we propose a novel solution to rank fusion by splitting the computation into two parts -- one phase that is carried out offline to generate pre-computed centroid answers for queries with broadly similar information needs, and then a second online phase that uses the corresponding topic centroid to compute a result page for each query. We explore efficiency improvements to classic fusion algorithms whose costs can be amortized as a pre-processing step, and can then be combined with re-ranking approaches to dramatically improve effectiveness in multi-stage retrieval systems with little efficiency overhead at query time. Experimental results using the ClueWeb12B collection and the UQV100 query variations demonstrate that centroid-based approaches allow improved retrieval effectiveness at little or no loss in query throughput or latency, and with reasonable pre-processing requirements. We additionally show that queries that do not match any of the pre-computed clusters can be accurately identified and efficiently processed in our proposed ranking pipeline.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/sigir19/">
+  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/tois19/">
 
   
 
@@ -82,24 +82,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://JMMackenzie.io/publication/sigir19/">
+  <link rel="canonical" href="https://JMMackenzie.io/publication/tois19/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Joel Mackenzie">
-  <meta property="og:url" content="https://JMMackenzie.io/publication/sigir19/">
-  <meta property="og:title" content="Accelerated Query Processing Via Similarity Score Prediction | Joel Mackenzie">
-  <meta property="og:description" content="Processing top-$k$ bag-of-words queries is critical to many information retrieval applications, including web-scale search. In this work, we consider algorithmic properties associated with dynamic pruning mechanisms. Such algorithms maintain a score threshold (the $k$th highest similarity score identified so far) so that low-scoring documents can be bypassed, allowing fast top-$k$ retrieval with no loss in effectiveness. In standard pruning algorithms the score threshold is initialized to the lowest possible value. To accelerate processing, we make use of term- and query-dependent features to predict the final value of that threshold, and then employ the predicted value right from the commencement of processing. Because of the asymmetry associated with prediction errors (if the estimated threshold is too high the query will need to be re-executed in order to assure the correct answer), the prediction process must be risk-sensitive. We explore techniques for balancing those factors, and provide detailed experimental results that show the practical usefulness of the new approach.">
+  <meta property="og:url" content="https://JMMackenzie.io/publication/tois19/">
+  <meta property="og:title" content="Boosting Search Performance Using Query Variations | Joel Mackenzie">
+  <meta property="og:description" content="Rank fusion is a powerful technique that allows multiple sources of information to be combined into a single result set. However, to date fusion has not been regarded as being cost-effective in cases where strict per-query efficiency guarantees are required, such as in web search. In this work we propose a novel solution to rank fusion by splitting the computation into two parts -- one phase that is carried out offline to generate pre-computed centroid answers for queries with broadly similar information needs, and then a second online phase that uses the corresponding topic centroid to compute a result page for each query. We explore efficiency improvements to classic fusion algorithms whose costs can be amortized as a pre-processing step, and can then be combined with re-ranking approaches to dramatically improve effectiveness in multi-stage retrieval systems with little efficiency overhead at query time. Experimental results using the ClueWeb12B collection and the UQV100 query variations demonstrate that centroid-based approaches allow improved retrieval effectiveness at little or no loss in query throughput or latency, and with reasonable pre-processing requirements. We additionally show that queries that do not match any of the pre-computed clusters can be accurately identified and efficiently processed in our proposed ranking pipeline.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-05-22T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-07-12T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-07-21T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2019-08-01T00:00:00&#43;00:00">
   
 
-  <title>Accelerated Query Processing Via Similarity Score Prediction | Joel Mackenzie</title>
+  
+
+  <title>Boosting Search Performance Using Query Variations | Joel Mackenzie</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
@@ -219,10 +219,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Accelerated Query Processing Via Similarity Score Prediction</h1>
+    <h1 itemprop="name">Boosting Search Performance Using Query Variations</h1>
     <span class="pub-authors" itemprop="author">
       
-      M. Petri, A. Moffat, J. Mackenzie, J. S. Culpepper, and D. Beck
+      R. Benham, J. Mackenzie, A. Moffat, and J. S. Culpepper
       
     </span>
     <span class="pull-right">
@@ -231,35 +231,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Accelerated%20Query%20Processing%20Via%20Similarity%20Score%20Prediction&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsigir19%2f"
+         href="https://twitter.com/intent/tweet?text=Boosting%20Search%20Performance%20Using%20Query%20Variations&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2ftois19%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsigir19%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2ftois19%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsigir19%2f&amp;title=Accelerated%20Query%20Processing%20Via%20Similarity%20Score%20Prediction"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2ftois19%2f&amp;title=Boosting%20Search%20Performance%20Using%20Query%20Variations"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsigir19%2f&amp;title=Accelerated%20Query%20Processing%20Via%20Similarity%20Score%20Prediction"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2ftois19%2f&amp;title=Boosting%20Search%20Performance%20Using%20Query%20Variations"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Accelerated%20Query%20Processing%20Via%20Similarity%20Score%20Prediction&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2fsigir19%2f">
+         href="mailto:?subject=Boosting%20Search%20Performance%20Using%20Query%20Variations&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2ftois19%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -273,7 +273,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Processing top-$k$ bag-of-words queries is critical to many information retrieval applications, including web-scale search. In this work, we consider algorithmic properties associated with dynamic pruning mechanisms. Such algorithms maintain a score threshold (the $k$th highest similarity score identified so far) so that low-scoring documents can be bypassed, allowing fast top-$k$ retrieval with no loss in effectiveness. In standard pruning algorithms the score threshold is initialized to the lowest possible value. To accelerate processing, we make use of term- and query-dependent features to predict the final value of that threshold, and then employ the predicted value right from the commencement of processing. Because of the asymmetry associated with prediction errors (if the estimated threshold is too high the query will need to be re-executed in order to assure the correct answer), the prediction process must be risk-sensitive. We explore techniques for balancing those factors, and provide detailed experimental results that show the practical usefulness of the new approach.</p>
+    <p class="pub-abstract" itemprop="text">Rank fusion is a powerful technique that allows multiple sources of information to be combined into a single result set. However, to date fusion has not been regarded as being cost-effective in cases where strict per-query efficiency guarantees are required, such as in web search. In this work we propose a novel solution to rank fusion by splitting the computation into two parts &ndash; one phase that is carried out offline to generate pre-computed centroid answers for queries with broadly similar information needs, and then a second online phase that uses the corresponding topic centroid to compute a result page for each query. We explore efficiency improvements to classic fusion algorithms whose costs can be amortized as a pre-processing step, and can then be combined with re-ranking approaches to dramatically improve effectiveness in multi-stage retrieval systems with little efficiency overhead at query time. Experimental results using the ClueWeb12B collection and the UQV100 query variations demonstrate that centroid-based approaches allow improved retrieval effectiveness at little or no loss in query throughput or latency, and with reasonable pre-processing requirements. We additionally show that queries that do not match any of the pre-computed clusters can be accurately identified and efficiently processed in our proposed ranking pipeline.</p>
     
 
     
@@ -284,8 +284,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -302,7 +302,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the 42nd International ACM Conference on Research and Development in Information Retrieval (SIGIR 2019)</div>
+          <div class="col-xs-12 col-sm-9">ACM Transactions on Information Systems</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -316,7 +316,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            July, 2019
+            August, 2019
           </div>
         </div>
       </div>
@@ -336,7 +336,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/pm&#43;19-sigir.pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/bmmc19-tois-preprint.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
