@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on Joel Mackenzie</title>
+    <link>https://JMMackenzie.io/trivia/</link>
+    <description>Recent content in Service on Joel Mackenzie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Joel Mackenzie</copyright>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="https://JMMackenzie.io/trivia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trivia</title>
+      <link>https://JMMackenzie.io/trivia/trivia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/trivia/trivia/</guid>
+      <description>I have collaborated with a number of people who are smarter than myself:
+ Ahmed Hassan Awadallah Daniel Beck Rodger Benham Roi Blanco Ruey-Cheng Chen Farhana Choudhury Charlie Clarke Matt Crane J. Shane Culpepper Tadele Damessie Luke Gallagher Kshitiz Gupta Binsheng Liu Jimmy Lin Xiaolu Lu Craig Macdonald Antonio Mallia Alistair Moffat Matthias Petri Mark Qiao Falk Scholer Milad Shokouhi Michal Siedlaczek Torsten Suel Andrew Trotman  </description>
+    </item>
+    
+  </channel>
+</rss>
