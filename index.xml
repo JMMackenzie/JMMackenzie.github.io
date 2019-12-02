@@ -10,38 +10,198 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Publications</title>
-      <link>https://JMMackenzie.io/publication/</link>
-      <pubDate>Tue, 28 Aug 2018 00:00:00 +1000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Service</title>
-      <link>https://JMMackenzie.io/service/</link>
-      <pubDate>Tue, 28 Aug 2018 00:00:00 +1000</pubDate>
-      
-      <guid>https://JMMackenzie.io/service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Service</title>
-      <link>https://JMMackenzie.io/trivia/</link>
-      <pubDate>Tue, 28 Aug 2018 00:00:00 +1000</pubDate>
-      
-      <guid>https://JMMackenzie.io/trivia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teaching</title>
-      <link>https://JMMackenzie.io/teaching/</link>
-      <pubDate>Tue, 28 Aug 2018 00:00:00 +1000</pubDate>
+      <link>https://JMMackenzie.io/teaching/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://JMMackenzie.io/teaching/</guid>
+      <guid>https://JMMackenzie.io/teaching/teaching/</guid>
+      <description>&lt;p&gt;I have previously been a tutor and/or a lab assistant for the following courses at RMIT University:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;COSC1105/COSC1007: &lt;a href=&#34;http://www1.rmit.edu.au/courses/004108&#34; target=&#34;_blank&#34;&gt;Computing Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;COSC2406/COSC2407: &lt;a href=&#34;http://www1.rmit.edu.au/courses/039983&#34; target=&#34;_blank&#34;&gt;Database Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;COSC1112/COSC1114: &lt;a href=&#34;http://www1.rmit.edu.au/courses/004111&#34; target=&#34;_blank&#34;&gt;Operating Systems Principles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ISYS1078/ISYS1079: &lt;a href=&#34;http://www1.rmit.edu.au/courses/004175&#34; target=&#34;_blank&#34;&gt;Information Retrieval&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;COSC2531: &lt;a href=&#34;http://www1.rmit.edu.au/courses/045682&#34; target=&#34;_blank&#34;&gt;Programming Fundamentals&lt;/a&gt; (Head Tutor)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://JMMackenzie.io/service/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/service/service/</guid>
+      <description>&lt;p&gt;I have been a PC member for conferences such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://cikm2017.org&#34; target=&#34;_blank&#34;&gt;CIKM 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cikm2018.units.it&#34; target=&#34;_blank&#34;&gt;CIKM 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2018/&#34; target=&#34;_blank&#34;&gt;ADCS 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2019/&#34; target=&#34;_blank&#34;&gt;SIGIR 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cikm2019.net/&#34; target=&#34;_blank&#34;&gt;CIKM 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have been a reviewer for conferences and journals such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2016&#34; target=&#34;_blank&#34;&gt;ADCS 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sigir.org/sigir2016/&#34; target=&#34;_blank&#34;&gt;SIGIR 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2017&#34; target=&#34;_blank&#34;&gt;ADCS 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sigir.org/sigir2017/&#34; target=&#34;_blank&#34;&gt;SIGIR 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vldb.org/2017/&#34; target=&#34;_blank&#34;&gt;VLDB 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://journals.sagepub.com/home/jis&#34; target=&#34;_blank&#34;&gt;The Journal of Information Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spire19.lbd.org.es/&#34; target=&#34;_blank&#34;&gt;SPIRE 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trivia</title>
+      <link>https://JMMackenzie.io/trivia/trivia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/trivia/trivia/</guid>
+      <description>&lt;p&gt;I have collaborated with a number of people who are smarter than myself:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ahmed Hassan Awadallah&lt;/li&gt;
+&lt;li&gt;Daniel Beck&lt;/li&gt;
+&lt;li&gt;Rodger Benham&lt;/li&gt;
+&lt;li&gt;Roi Blanco&lt;/li&gt;
+&lt;li&gt;Ruey-Cheng Chen&lt;/li&gt;
+&lt;li&gt;Farhana Choudhury&lt;/li&gt;
+&lt;li&gt;Charlie Clarke&lt;/li&gt;
+&lt;li&gt;Matt Crane&lt;/li&gt;
+&lt;li&gt;J. Shane Culpepper&lt;/li&gt;
+&lt;li&gt;Tadele Damessie&lt;/li&gt;
+&lt;li&gt;Luke Gallagher&lt;/li&gt;
+&lt;li&gt;Kshitiz Gupta&lt;/li&gt;
+&lt;li&gt;Binsheng Liu&lt;/li&gt;
+&lt;li&gt;Jimmy Lin&lt;/li&gt;
+&lt;li&gt;Xiaolu Lu&lt;/li&gt;
+&lt;li&gt;Craig Macdonald&lt;/li&gt;
+&lt;li&gt;Antonio Mallia&lt;/li&gt;
+&lt;li&gt;Alistair Moffat&lt;/li&gt;
+&lt;li&gt;Matthias Petri&lt;/li&gt;
+&lt;li&gt;Mark Qiao&lt;/li&gt;
+&lt;li&gt;Falk Scholer&lt;/li&gt;
+&lt;li&gt;Milad Shokouhi&lt;/li&gt;
+&lt;li&gt;Michal Siedlaczek&lt;/li&gt;
+&lt;li&gt;Torsten Suel&lt;/li&gt;
+&lt;li&gt;Andrew Trotman&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Boosting Search Performance Using Query Variations</title>
+      <link>https://JMMackenzie.io/publication/tois19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/tois19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Query Processing Via Similarity Score Prediction</title>
+      <link>https://JMMackenzie.io/publication/sigir19/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PISA: Performant Indexes and Search for Academia</title>
+      <link>https://JMMackenzie.io/publication/osirrc19/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/osirrc19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring User Behavior in Email Re-Finding Tasks</title>
+      <link>https://JMMackenzie.io/publication/www19/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/www19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study</title>
+      <link>https://JMMackenzie.io/publication/ecir19/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Spam Filtering in Web Search</title>
+      <link>https://JMMackenzie.io/publication/adcs18/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/adcs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMIT at the 2018 TREC CORE Track</title>
+      <link>https://JMMackenzie.io/publication/core18/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/core18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Efficient and Effective Query Variant Generation</title>
+      <link>https://JMMackenzie.io/publication/desires18/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/desires18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Cost of Negation for Dynamic Pruning</title>
+      <link>https://JMMackenzie.io/publication/ecir18/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Driven Algorithm Selection in Early Stage Retrieval</title>
+      <link>https://JMMackenzie.io/publication/wsdm18/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/wsdm18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Termination Heuristics for Score-at-a-Time Index Traversal</title>
+      <link>https://JMMackenzie.io/publication/adcs17/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/adcs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMIT at the NTCIR-13 We Want Web Task</title>
+      <link>https://JMMackenzie.io/publication/ntcir17/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ntcir17/</guid>
       <description></description>
     </item>
     
