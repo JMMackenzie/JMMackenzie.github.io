@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Joel Mackenzie</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -41,6 +41,7 @@
 &lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2018/&#34; target=&#34;_blank&#34;&gt;ADCS 2018&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2019/&#34; target=&#34;_blank&#34;&gt;SIGIR 2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cikm2019.net/&#34; target=&#34;_blank&#34;&gt;CIKM 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2020/&#34; target=&#34;_blank&#34;&gt;SIGIR 2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I have been a reviewer for conferences and journals such as:&lt;/p&gt;
@@ -95,6 +96,15 @@
 &lt;li&gt;Andrew Trotman&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Managing Tail Latency in Large Scale Information Retrieval Systems</title>
+      <link>https://JMMackenzie.io/publication/thesis/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/thesis/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -193,15 +203,6 @@
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/adcs17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RMIT at the NTCIR-13 We Want Web Task</title>
-      <link>https://JMMackenzie.io/publication/ntcir17/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/ntcir17/</guid>
       <description></description>
     </item>
     
