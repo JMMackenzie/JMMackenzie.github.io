@@ -25,8 +25,8 @@
 }
 
 html {
-  font-family: 'Alegreya', sans-serif;
-  font-size: 16px;
+  font-family: 'Vollkorn', sans-serif;
+  font-size: 18px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
@@ -1113,7 +1113,7 @@ footer a#back_to_top i {
 }
 
 nav#navbar-main li {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .navbar-default .navbar-nav>li>a,

@@ -21,7 +21,7 @@ html {
 
 .navbar-default {
   font-family:'Lato';
-  font-variant: small-caps;
+  /*font-variant: small-caps;*/
   /*font-style: italic;*/
   font-weight: 700;
   font-size: 1.3rem;
