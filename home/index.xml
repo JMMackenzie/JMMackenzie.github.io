@@ -19,8 +19,8 @@
       
       <guid>https://JMMackenzie.io/home/about/</guid>
       <description>About I am currently a postdoctoral research fellow at the University of Melbourne, working with Professor Alistair Moffat.
-I completed my PhD at RMIT University under the guidance of Associate Professor J. Shane Culpepper and Associate Professor Falk Scholer, where I examined how to manage tail latency in large-scale search engines.
-My current research interests include distributed IR, selective search, dynamic pruning, compression, index efficiency, user behaviour analysis, and evaluation.</description>
+I completed my PhD at RMIT University under the guidance of Associate Professor J. Shane Culpepper and Professor Falk Scholer, where I examined how to manage tail latency in large-scale search engines.
+My current research interests include large-scale search systems, dynamic pruning, compression, user behaviour analysis, rank fusion, and evaluation. I also have a broad interest in operating systems, data structures, and algorithms.</description>
     </item>
     
     <item>
