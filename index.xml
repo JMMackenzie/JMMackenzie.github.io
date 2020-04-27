@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Joel Mackenzie</copyright>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -33,7 +33,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/service/service/</guid>
-      <description>&lt;p&gt;I have been a PC member for conferences such as:&lt;/p&gt;
+      <description>&lt;p&gt;I have been a PC member for the following conferences:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://cikm2017.org&#34; target=&#34;_blank&#34;&gt;CIKM 2017&lt;/a&gt;&lt;/li&gt;
@@ -42,9 +42,10 @@
 &lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2019/&#34; target=&#34;_blank&#34;&gt;SIGIR 2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cikm2019.net/&#34; target=&#34;_blank&#34;&gt;CIKM 2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2020/&#34; target=&#34;_blank&#34;&gt;SIGIR 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cikm2020.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I have been a reviewer for conferences and journals such as:&lt;/p&gt;
+&lt;p&gt;I have been a reviewer for the following conferences and journals:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2016&#34; target=&#34;_blank&#34;&gt;ADCS 2016&lt;/a&gt;&lt;/li&gt;
@@ -96,6 +97,24 @@
 &lt;li&gt;Andrew Trotman&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Efficiency Implications of Term Weighting for Passage Retrieval</title>
+      <link>https://JMMackenzie.io/publication/sigir20-short/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir20-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Interoperability Between Open-Source Search Engines with the Common Index File Format</title>
+      <link>https://JMMackenzie.io/publication/sigir20-demo/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir20-demo/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -185,24 +204,6 @@
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/ecir18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Query Driven Algorithm Selection in Early Stage Retrieval</title>
-      <link>https://JMMackenzie.io/publication/wsdm18/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/wsdm18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Early Termination Heuristics for Score-at-a-Time Index Traversal</title>
-      <link>https://JMMackenzie.io/publication/adcs17/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/adcs17/</guid>
       <description></description>
     </item>
     

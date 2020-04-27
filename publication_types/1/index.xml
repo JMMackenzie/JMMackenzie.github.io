@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Joel Mackenzie</copyright>
-    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Efficiency Implications of Term Weighting for Passage Retrieval</title>
+      <link>https://JMMackenzie.io/publication/sigir20-short/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir20-short/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accelerated Query Processing Via Similarity Score Prediction</title>
