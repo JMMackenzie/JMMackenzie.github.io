@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Joel Mackenzie</copyright>
-    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -56,6 +56,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.vldb.org/2017/&#34; target=&#34;_blank&#34;&gt;VLDB 2017&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://journals.sagepub.com/home/jis&#34; target=&#34;_blank&#34;&gt;The Journal of Information Science&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://spire19.lbd.org.es/&#34; target=&#34;_blank&#34;&gt;SPIRE 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://2020.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;,
@@ -103,6 +104,15 @@ and am the proceedings chair for &lt;a href=&#34;https://sigir.org/chiir2021&#34
 &lt;li&gt;Arjen de Vries&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CC-News-En: A Large English News Corpus</title>
+      <link>https://JMMackenzie.io/publication/cikm20-resource/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/cikm20-resource/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -201,15 +211,6 @@ and am the proceedings chair for &lt;a href=&#34;https://sigir.org/chiir2021&#34
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/desires18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Cost of Negation for Dynamic Pruning</title>
-      <link>https://JMMackenzie.io/publication/ecir18/</link>
-      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/ecir18/</guid>
       <description></description>
     </item>
     
