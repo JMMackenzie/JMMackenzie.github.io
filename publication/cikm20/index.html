@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities">
+  <meta name="description" content="Research activity spanning more than five decades has led to index organizations, compression schemes, and traversal algorithms that allow extremely rapid response to ranked queries against very large text collections. However, little attention has been paid to the interactions between these many components, and the additivity of algorithmic improvements has not been explored. Here we examine the extent to which efficiency improvements add up. We employ four query processing algorithms, four compression codecs, and all possible combinations of four distinct further optimizations, and compare the performance of the 256 resulting systems to determine when and how different optimizations interact. Our results over two test collections show that efficiency enhancements are, for the most part, additive, and that there is little risk of negative interactions. In addition, our detailed profiling across this large pool of systems leads to key insights as to why the various individual enhancements work well, and indicates that optimizing &#39;simpler&#39; implementations can result in higher query throughput than is available from non-optimized versions of the more &#39;complex&#39; techniques, with clear implications for the choices needing to be made by practitioners.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/www19/">
+  <link rel="alternate" hreflang="en-us" href="https://JMMackenzie.io/publication/cikm20/">
 
   
 
@@ -82,24 +82,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://JMMackenzie.io/publication/www19/">
+  <link rel="canonical" href="https://JMMackenzie.io/publication/cikm20/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Joel Mackenzie">
-  <meta property="og:url" content="https://JMMackenzie.io/publication/www19/">
-  <meta property="og:title" content="Exploring User Behavior in Email Re-Finding Tasks | Joel Mackenzie">
-  <meta property="og:description" content="Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities">
+  <meta property="og:url" content="https://JMMackenzie.io/publication/cikm20/">
+  <meta property="og:title" content="Examining the Additivity of Top-$k$ Query Processing Innovations | Joel Mackenzie">
+  <meta property="og:description" content="Research activity spanning more than five decades has led to index organizations, compression schemes, and traversal algorithms that allow extremely rapid response to ranked queries against very large text collections. However, little attention has been paid to the interactions between these many components, and the additivity of algorithmic improvements has not been explored. Here we examine the extent to which efficiency improvements add up. We employ four query processing algorithms, four compression codecs, and all possible combinations of four distinct further optimizations, and compare the performance of the 256 resulting systems to determine when and how different optimizations interact. Our results over two test collections show that efficiency enhancements are, for the most part, additive, and that there is little risk of negative interactions. In addition, our detailed profiling across this large pool of systems leads to key insights as to why the various individual enhancements work well, and indicates that optimizing &#39;simpler&#39; implementations can result in higher query throughput than is available from non-optimized versions of the more &#39;complex&#39; techniques, with clear implications for the choices needing to be made by practitioners.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-02-17T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2020-08-11T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-05-13T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2020-10-19T00:00:00&#43;00:00">
   
 
-  <title>Exploring User Behavior in Email Re-Finding Tasks | Joel Mackenzie</title>
+  
+
+  <title>Examining the Additivity of Top-$k$ Query Processing Innovations | Joel Mackenzie</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
@@ -219,10 +219,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Exploring User Behavior in Email Re-Finding Tasks</h1>
+    <h1 itemprop="name">Examining the Additivity of Top-$k$ Query Processing Innovations</h1>
     <span class="pub-authors" itemprop="author">
       
-      J. Mackenzie, K. Gupta, F. Qiao, A. H. Awadallah, and M. Shokouhi
+      J. Mackenzie, and A. Moffat
       
     </span>
     <span class="pull-right">
@@ -231,35 +231,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f"
+         href="https://twitter.com/intent/tweet?text=Examining%20the%20Additivity%20of%20Top-%24k%24%20Query%20Processing%20Innovations&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fcikm20%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fJMMackenzie.io%2fpublication%2fcikm20%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f&amp;title=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fcikm20%2f&amp;title=Examining%20the%20Additivity%20of%20Top-%24k%24%20Query%20Processing%20Innovations"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f&amp;title=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fJMMackenzie.io%2fpublication%2fcikm20%2f&amp;title=Examining%20the%20Additivity%20of%20Top-%24k%24%20Query%20Processing%20Innovations"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Exploring%20User%20Behavior%20in%20Email%20Re-Finding%20Tasks&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2fwww19%2f">
+         href="mailto:?subject=Examining%20the%20Additivity%20of%20Top-%24k%24%20Query%20Processing%20Innovations&amp;body=https%3a%2f%2fJMMackenzie.io%2fpublication%2fcikm20%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -273,7 +273,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Email continues to be one of the most commonly used forms of online communication. As inboxes grow larger, users rely more heavily on email search to effectively find what they are looking for. However, previous studies on email have been exclusive to enterprises with access to large user logs, or limited to small-scale qualitative surveys and analyses on outdated public datasets such as Enron and Avocado. In this work, we propose a novel framework that allows for experimentation with real email data. In particular, our approach provides a realistic way of simulating email re-finding tasks in a crowdsourcing environment using the workers’ personal email data. We use our approach to experiment with various ranking functions and quality degradation to measure how users behave under different conditions, and conduct analysis across various email types and attributes. Our results show that user behavior can be significantly impacted as a result of the quality of the search ranker, but only when differences in quality are very pronounced. Our analysis confirms that time-based ranking begins to fail as email age increases, suggesting that hybrid approaches may help bridge the gap between relevance-based rankers and the traditional time-based ranking approach. Finally, we also found that users typically reformulate search queries by either entirely re-writing the query, or simply appending terms to the query, which may have implications for email query suggestion facilities</p>
+    <p class="pub-abstract" itemprop="text">Research activity spanning more than five decades has led to index organizations, compression schemes, and traversal algorithms that allow extremely rapid response to ranked queries against very large text collections. However, little attention has been paid to the interactions between these many components, and the additivity of algorithmic improvements has not been explored. Here we examine the extent to which efficiency improvements add up. We employ four query processing algorithms, four compression codecs, and all possible combinations of four distinct further optimizations, and compare the performance of the 256 resulting systems to determine when and how different optimizations interact. Our results over two test collections show that efficiency enhancements are, for the most part, additive, and that there is little risk of negative interactions. In addition, our detailed profiling across this large pool of systems leads to key insights as to why the various individual enhancements work well, and indicates that optimizing &lsquo;simpler&rsquo; implementations can result in higher query throughput than is available from non-optimized versions of the more &lsquo;complex&rsquo; techniques, with clear implications for the choices needing to be made by practitioners.</p>
     
 
     
@@ -302,7 +302,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the 2019 World Wide Web Conference</div>
+          <div class="col-xs-12 col-sm-9">Proceedings of the 29th International Conference on Information and Knowledge Management (CIKM 2020)</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -316,7 +316,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            May, 2019
+            October, 2020
           </div>
         </div>
       </div>
@@ -336,7 +336,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/mg&#43;19-www.pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://JMMackenzie.io/pdf/mm20-cikm.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
