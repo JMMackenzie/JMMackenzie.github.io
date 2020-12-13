@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Joel Mackenzie</copyright>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -57,6 +57,7 @@
 &lt;li&gt;&lt;a href=&#34;https://journals.sagepub.com/home/jis&#34; target=&#34;_blank&#34;&gt;The Journal of Information Science&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://spire19.lbd.org.es/&#34; target=&#34;_blank&#34;&gt;SPIRE 2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://2020.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/journal/tois&#34; target=&#34;_blank&#34;&gt;ACM Transactions on Information Systems&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;,
@@ -104,6 +105,15 @@ and am the proceedings chair for &lt;a href=&#34;https://sigir.org/chiir2021&#34
 &lt;li&gt;Arjen de Vries&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Different Keystrokes for Different Folks: Visualizing Crowdworker Querying Behavior</title>
+      <link>https://JMMackenzie.io/publication/chiir21-short/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/chiir21-short/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -202,15 +212,6 @@ and am the proceedings chair for &lt;a href=&#34;https://sigir.org/chiir2021&#34
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/adcs18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RMIT at the 2018 TREC CORE Track</title>
-      <link>https://JMMackenzie.io/publication/core18/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/core18/</guid>
       <description></description>
     </item>
     

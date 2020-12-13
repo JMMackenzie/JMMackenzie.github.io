@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Joel Mackenzie</copyright>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Different Keystrokes for Different Folks: Visualizing Crowdworker Querying Behavior</title>
+      <link>https://JMMackenzie.io/publication/chiir21-short/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/chiir21-short/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Supporting Interoperability Between Open-Source Search Engines with the Common Index File Format</title>
