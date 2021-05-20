@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Joel Mackenzie</copyright>
+    <copyright>&amp;copy; 2021 Joel Mackenzie</copyright>
     <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/home/about/</guid>
-      <description>About I am currently a postdoctoral research fellow at the University of Melbourne, working with Professor Alistair Moffat.
-I completed my PhD at RMIT University under the guidance of Associate Professor J. Shane Culpepper and Professor Falk Scholer, where I examined how to manage tail latency in large-scale search engines.
-My current research interests include large-scale search systems, dynamic pruning, compression, user behaviour analysis, rank fusion, and evaluation. I also have a broad interest in operating systems, data structures, and algorithms.</description>
+      <description>About I am currently a postdoctoral research fellow at The University of Melbourne, working with Professor Alistair Moffat.
+I completed my PhD at RMIT University under the guidance of Professor J. Shane Culpepper and Professor Falk Scholer, where I examined how to manage tail latency in large-scale search engines.
+My current research focuses on efficient and effective representations for large-scale search engines, including indexing, compression, and retrieval. I am also interested in understanding how to measure improvements in the end-to-end search pipeline, including system-oriented effectiveness measurements and user behaviour analysis.</description>
     </item>
     
     <item>

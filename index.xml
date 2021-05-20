@@ -5,8 +5,8 @@
     <description>Recent content in Joel Mackenzie on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Joel Mackenzie</copyright>
-    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021 Joel Mackenzie</copyright>
+    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -44,8 +44,11 @@
 &lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2020/&#34; target=&#34;_blank&#34;&gt;SIGIR 2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cikm2020.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.wsdm-conference.org/2021/&#34; target=&#34;_blank&#34;&gt;WSDM 2021&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ecir2021.eu/&#34; target=&#34;_blank&#34;&gt;ECIR 2021 (Reproducibility Track)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kdd.org/kdd2021/&#34; target=&#34;_blank&#34;&gt;SIGKDD 2021 (Applied Data Science Track)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ecir2021.eu/&#34; target=&#34;_blank&#34;&gt;ECIR 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2021/&#34; target=&#34;_blank&#34;&gt;SIGIR 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kdd.org/kdd2021/&#34; target=&#34;_blank&#34;&gt;SIGKDD 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://2021.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cikm2021.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2021&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I have been a reviewer for the following conferences and journals:&lt;/p&gt;
@@ -63,7 +66,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;,
-and am the proceedings chair for &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;CHIIR 2021&lt;/a&gt;.&lt;/p&gt;
+and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;CHIIR 2021&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -107,6 +110,15 @@ and am the proceedings chair for &lt;a href=&#34;https://sigir.org/chiir2021&#34
 &lt;li&gt;Arjen de Vries&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Faster Index Reordering with Bipartite Graph Partitioning</title>
+      <link>https://JMMackenzie.io/publication/sigir21/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir21/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -205,15 +217,6 @@ and am the proceedings chair for &lt;a href=&#34;https://sigir.org/chiir2021&#34
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/ecir19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting Spam Filtering in Web Search</title>
-      <link>https://JMMackenzie.io/publication/adcs18/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/adcs18/</guid>
       <description></description>
     </item>
     
