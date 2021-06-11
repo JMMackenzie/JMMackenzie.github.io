@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Joel Mackenzie</copyright>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -113,6 +113,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>Anytime Ranking on Document-Ordered Indexes</title>
+      <link>https://JMMackenzie.io/publication/tois21/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/tois21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Faster Index Reordering with Bipartite Graph Partitioning</title>
       <link>https://JMMackenzie.io/publication/sigir21/</link>
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
@@ -208,15 +217,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/www19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study</title>
-      <link>https://JMMackenzie.io/publication/ecir19/</link>
-      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/ecir19/</guid>
       <description></description>
     </item>
     
