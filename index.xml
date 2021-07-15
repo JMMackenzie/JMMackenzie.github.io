@@ -28,6 +28,16 @@
     </item>
     
     <item>
+      <title>ICTIR 2021</title>
+      <link>https://JMMackenzie.io/post/ictir21/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/post/ictir21/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://jmmackenzie.io/publication/ictir21-cwl/&#34; target=&#34;_blank&#34;&gt;ERR is not C/W/L: Exploring the Relationship Between Expected Reciprocal Rank and Other Metrics&lt;/a&gt; has won the best paper award at ICTIR 2021!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Service</title>
       <link>https://JMMackenzie.io/service/service/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -208,15 +218,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/tois19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerated Query Processing Via Similarity Score Prediction</title>
-      <link>https://JMMackenzie.io/publication/sigir19/</link>
-      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir19/</guid>
       <description></description>
     </item>
     
