@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Joel Mackenzie</copyright>
-    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications</title>
+      <link>https://JMMackenzie.io/publication/desires21/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/desires21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PISA: Performant Indexes and Search for Academia</title>
