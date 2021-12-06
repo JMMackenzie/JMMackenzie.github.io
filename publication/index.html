@@ -307,6 +307,9 @@
         
         
       
+        
+        
+      
 
       <p>
         Filter by type:
@@ -341,6 +344,10 @@
           
           
           
+          <option value=".year-2022">
+            2022
+          </option>
+          
           <option value=".year-2021">
             2021
           </option>
@@ -374,6 +381,146 @@
       </p>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-2 year-2022">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/tois21/" itemprop="url">Anytime Ranking on Document-Ordered Indexes</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Inverted indexes continue to be a mainstay of text search engines, allowing efficient querying of large document collections. While there are a number of possible organizations, document-ordered indexes are the most common, since they are amenable to various query types, support index updates, and allow for efficient dynamic pruning operations. One disadvantage with document-ordered indexes is that high-scoring documents can be distributed across the document identifier space, meaning that index traversal algorithms that terminate early might put search effectiveness at risk. The alternative is impact-ordered indexes, which primarily support top-$k$ disjunctions, but also allow for anytime query processing, where the search can be terminated at any time, with search quality improving as processing latency increases. Anytime query processing can be used to effectively reduce high-percentile tail latency which is essential for operational scenarios in which a service level agreement (SLA) imposes response time requirements. In this work, we show how document-ordered indexes can be organized such that they can be queried in an anytime fashion, enabling strict latency control with effective early termination. Our experiments show that processing document-ordered topical segments selected by a simple score estimator outperforms existing anytime algorithms, and allows query runtimes to be accurately limited in order to comply with SLA requirements.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    J. Mackenzie, M. Petri, and A. Moffat
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    TOIS,
+    2022</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/mpm22-tois.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.amazon.science/blog/more-efficient-and-reliable-retrieval-of-distributed-data" target="_blank" rel="noopener">
+  Amazon Science Blog
+</a>
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2021">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/adcs21/" itemprop="url">Cost-Effective Updating of Distributed Reordered Indexes</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Index reordering techniques allow document collections to be renumbered, with the goal of developing a permutation of the initial document ordinal identifiers that places documents that are (somehow) like each other into positions near each other in the permuted ordering. The clustering that results allows inverted index size to be reduced, since each term&rsquo;s posting list is more likely to contain a non-uniform set of inter-document integer gaps. Reordering is normally performed once, at the time the index is created. Here we consider the role of index reordering in collections that grow over time, noting that simply appending new documents to the collection may erode the effectiveness of an earlier reordering. In particular, we discuss methods for maintaining and reinstating reorderings as document collections grow, and measure the effectiveness of those techniques on a large corpus of English news articles. We also provide experimental results that illustrate the benefits of reordering in terms of query execution time.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    J. Mackenzie and A. Moffat
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    ADCS,
+    2021</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/mm21-adcs.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
         
 
         
@@ -501,78 +648,6 @@
 
 
 
-
-
-  </div>
-
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-md-12 isotope-item pubtype-2 year-2021">
-          
-            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
-
-  
-  
-
-  <h3 class="article-title" itemprop="name">
-    <a href="https://JMMackenzie.io/publication/tois21/" itemprop="url">Anytime Ranking on Document-Ordered Indexes</a>
-  </h3>
-
-  <div class="pub-abstract" itemprop="text">
-    
-    Inverted indexes continue to be a mainstay of text search engines, allowing efficient querying of large document collections. While there are a number of possible organizations, document-ordered indexes are the most common, since they are amenable to various query types, support index updates, and allow for efficient dynamic pruning operations. One disadvantage with document-ordered indexes is that high-scoring documents can be distributed across the document identifier space, meaning that index traversal algorithms that terminate early might put search effectiveness at risk. The alternative is impact-ordered indexes, which primarily support top-$k$ disjunctions, but also allow for anytime query processing, where the search can be terminated at any time, with search quality improving as processing latency increases. Anytime query processing can be used to effectively reduce high-percentile tail latency which is essential for operational scenarios in which a service level agreement (SLA) imposes response time requirements. In this work, we show how document-ordered indexes can be organized such that they can be queried in an anytime fashion, enabling strict latency control with effective early termination. Our experiments show that processing document-ordered topical segments selected by a simple score estimator outperforms existing anytime algorithms, and allows query runtimes to be accurately limited in order to comply with SLA requirements.
-    
-  </div>
-
-  <div class="pub-authors" itemprop="author">
-    
-    J. Mackenzie, M. Petri, and A. Moffat
-    
-  </div>
-
-  <div class="pub-abstract" itemprop="notes">
-  
-  </div> 
-
-  <div class="pub-publication">
-    TOIS,
-    2021</div>
-
-  <div class="pub-links">
-    
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/mpm21-tois.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.amazon.science/blog/more-efficient-and-reliable-retrieval-of-distributed-data" target="_blank" rel="noopener">
-  Amazon Science Blog
-</a>
 
 
   </div>
