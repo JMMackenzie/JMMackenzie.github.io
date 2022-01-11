@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Efficient Query Processing Techniques for Next-Page Retrieval</title>
+      <link>https://JMMackenzie.io/publication/irj22/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/irj22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anytime Ranking on Document-Ordered Indexes</title>

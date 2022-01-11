@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -129,6 +129,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>Efficient Query Processing Techniques for Next-Page Retrieval</title>
+      <link>https://JMMackenzie.io/publication/irj22/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/irj22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Anytime Ranking on Document-Ordered Indexes</title>
       <link>https://JMMackenzie.io/publication/tois21/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -215,15 +224,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/chiir21-short/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CC-News-En: A Large English News Corpus</title>
-      <link>https://JMMackenzie.io/publication/cikm20-resource/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/cikm20-resource/</guid>
       <description></description>
     </item>
     
