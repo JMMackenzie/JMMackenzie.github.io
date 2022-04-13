@@ -325,6 +325,15 @@ digital library.</p>
         
         
       
+        
+        
+      
+        
+        
+      
+        
+        
+      
 
       <p>
         Filter by type:
@@ -396,6 +405,198 @@ digital library.</p>
       </p>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2022">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/sigir22-long/" itemprop="url">A Flexible Framework for Offline Effectiveness Metrics</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    The use of offline effectiveness metrics is one of the cornerstones of evaluation in information retrieval. Static resources that include test collections and sets of topics, the corresponding relevance judgments connecting them, and metrics that map document rankings from a retrieval system to numeric scores have been used for multiple decades as an important way of comparing systems. The basis behind this experimental structure is that the metric score for a system can serve as a surrogate measurement for user satisfaction. Here we introduce a user behavior framework that extends the C/W/L family. The essence of the new framework &ndash; which we call C/W/L/A &ndash; is that the user actions that are undertaken while reading the ranking can be considered separately from the benefit that each user will have derived as they exit the ranking. This split structure allows the great majority of current effectiveness metrics to be systematically categorized, and thus their relative properties and relationships to be better understood; and at the same time permits a wide range of novel combinations to be considered. We then carry out experiments using relevance judgments, document rankings, and user satisfaction data from two distinct sources, comparing the patterns of metric scores generated, and showing that those metrics vary quite markedly in terms of their ability to predict user satisfaction.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    A. Moffat, J. Mackenzie, P. Thomas, and L. Azzopardi
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    SIGIR,
+    2022</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2022">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/sigir22-short/" itemprop="url">Faster Learned Sparse Retrieval with Guided Traversal</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Neural information retrieval architectures based on transformers such as BERT are able to significantly improve system effectiveness over traditional sparse models such as BM25. Though highly effective, these neural approaches are very expensive to run, making them difficult to deploy under strict latency constraints. To address this limitation, recent studies have proposed new families of learned sparse models that try to match the effectiveness of learned dense models, while leveraging the traditional inverted index data structure for efficiency. Current learned sparse models learn the weights of terms in documents and, sometimes, queries; however, they exploit different vocabulary structures, document expansion techniques, and query expansion strategies, which can make them slower than traditional sparse models such as BM25. In this work, we propose a novel indexing and query processing technique that exploits a traditional sparse model&rsquo;s &lsquo;guidance&rsquo; to efficiently traverse the index, allowing the more effective learned model to execute fewer scoring operations. Our experiments show that our guided processing heuristic is able to boost the efficiency of the underlying learned sparse model by a factor of four without any measurable loss of effectiveness.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    A. Mallia, J. Mackenzie, T. Suel, and N. Tonellotto
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    SIGIR,
+    2022</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-7 year-2022">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/sigir22-demo/" itemprop="url">A Common Framework for Exploring Document-at-a-Time and Score-at-a-Time Retrieval Methods</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Document-at-a-time (DaaT) and score-at-a-time (SaaT) query evaluation techniques represent different approaches to top-$k$ retrieval with inverted indexes. While modern deployed systems are dominated by DaaT methods, the academic literature has seen decades of debate about the merits of both. Recently, there has been renewed interest in SaaT methods for learned sparse lexical models, where studies have shown that transformers generate &lsquo;wacky weights&rsquo; that appear to reduce opportunities for optimizations in DaaT methods. However, researchers currently lack an easy-to-use SaaT system to support further exploration. This is the gap that our work tries to fill. Starting with JASS, a modern SaaT system, we built Python bindings to create PyJASS, and then further integrated PyJASS into the Pyserini IR toolkit. The result is a common frontend to both a DaaT system (Lucene) and a SaaT system (JASS). We demonstrate how recent experiments with a wide range of learned sparse lexical models can be easily reproduced. Our contribution is a framework that enables future research comparing DaaT and SaaT methods in the context of modern neural retrieval models.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    A. Trotman, J. Mackenzie, P. Parameswaran, and J. Lin
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    SIGIR,
+    2022</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
         
 
         

@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>A Flexible Framework for Offline Effectiveness Metrics</title>
+      <link>https://JMMackenzie.io/publication/sigir22-long/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir22-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Learned Sparse Retrieval with Guided Traversal</title>
+      <link>https://JMMackenzie.io/publication/sigir22-short/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir22-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Common Framework for Exploring Document-at-a-Time and Score-at-a-Time Retrieval Methods</title>
+      <link>https://JMMackenzie.io/publication/sigir22-demo/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir22-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Query Processing Techniques for Next-Page Retrieval</title>
       <link>https://JMMackenzie.io/publication/irj22/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>

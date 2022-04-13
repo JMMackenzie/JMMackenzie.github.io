@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -49,7 +49,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://www.damianospina.com/&#34; target=&#34;_blank&#34;&gt;Damiano Spina&lt;/a&gt; and I were the general chairs
 of &lt;a href=&#34;http://adcs-conference.org/2021/&#34; target=&#34;_blank&#34;&gt;ADCS 2021&lt;/a&gt; which was held as a virtual
-seminar series.&lt;/p&gt;
+seminar series. I will be a program chair for ADCS 2022.&lt;/p&gt;
 
 &lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;,
 and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;CHIIR 2021&lt;/a&gt;.&lt;/p&gt;
@@ -61,7 +61,7 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2018/&#34; target=&#34;_blank&#34;&gt;ADCS 2018&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.bhcc-symposium.com/&#34; target=&#34;_blank&#34;&gt;BHCC 2021&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cikm2017.org&#34; target=&#34;_blank&#34;&gt;CIKM 2017&lt;/a&gt;, &lt;a href=&#34;http://www.cikm2018.units.it&#34; target=&#34;_blank&#34;&gt;CIKM 2018&lt;/a&gt;, &lt;a href=&#34;http://www.cikm2019.net/&#34; target=&#34;_blank&#34;&gt;CIKM 2019&lt;/a&gt;, &lt;a href=&#34;https://cikm2020.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2020&lt;/a&gt;, &lt;a href=&#34;https://www.cikm2021.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cikm2017.org&#34; target=&#34;_blank&#34;&gt;CIKM 2017&lt;/a&gt;, &lt;a href=&#34;http://www.cikm2018.units.it&#34; target=&#34;_blank&#34;&gt;CIKM 2018&lt;/a&gt;, &lt;a href=&#34;http://www.cikm2019.net/&#34; target=&#34;_blank&#34;&gt;CIKM 2019&lt;/a&gt;, &lt;a href=&#34;https://cikm2020.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2020&lt;/a&gt;, &lt;a href=&#34;https://www.cikm2021.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2021&lt;/a&gt;, &lt;a href=&#34;https://www.cikm2022.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2022&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ecir2021.eu/&#34; target=&#34;_blank&#34;&gt;ECIR 2021&lt;/a&gt;, &lt;a href=&#34;https://ecir2022.org/&#34; target=&#34;_blank&#34;&gt;ECIR 2022&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://2021.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2021&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2019/&#34; target=&#34;_blank&#34;&gt;SIGIR 2019&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2020/&#34; target=&#34;_blank&#34;&gt;SIGIR 2020&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2021/&#34; target=&#34;_blank&#34;&gt;SIGIR 2021&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2022/&#34; target=&#34;_blank&#34;&gt;SIGIR 2022&lt;/a&gt;&lt;/li&gt;
@@ -72,7 +72,7 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 
 &lt;h2 id=&#34;peer-reviewing&#34;&gt;Peer Reviewing&lt;/h2&gt;
 
-&lt;p&gt;I have been a reviewer for the following conferences and journals:&lt;/p&gt;
+&lt;p&gt;I have been a reviewer for the following conferences, journals, and workshops:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2016&#34; target=&#34;_blank&#34;&gt;ADCS 2016&lt;/a&gt;, &lt;a href=&#34;http://adcs-conference.org/2017&#34; target=&#34;_blank&#34;&gt;ADCS 2017&lt;/a&gt;&lt;/li&gt;
@@ -82,6 +82,7 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;https://spire19.lbd.org.es/&#34; target=&#34;_blank&#34;&gt;SPIRE 2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://2020.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://dl.acm.org/journal/tois&#34; target=&#34;_blank&#34;&gt;ACM Transactions on Information Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://insights-workshop.github.io/&#34; target=&#34;_blank&#34;&gt;INSIGHTS@ACL 2022&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -96,6 +97,7 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Ahmed Hassan Awadallah&lt;/li&gt;
+&lt;li&gt;Leif Azzopardi&lt;/li&gt;
 &lt;li&gt;Daniel Beck&lt;/li&gt;
 &lt;li&gt;Rodger Benham&lt;/li&gt;
 &lt;li&gt;Roi Blanco&lt;/li&gt;
@@ -113,19 +115,50 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 &lt;li&gt;Binsheng Liu&lt;/li&gt;
 &lt;li&gt;Jimmy Lin&lt;/li&gt;
 &lt;li&gt;Xiaolu Lu&lt;/li&gt;
+&lt;li&gt;Xueguang Ma&lt;/li&gt;
 &lt;li&gt;Craig Macdonald&lt;/li&gt;
 &lt;li&gt;Antonio Mallia&lt;/li&gt;
 &lt;li&gt;Alistair Moffat&lt;/li&gt;
 &lt;li&gt;Matthias Petri&lt;/li&gt;
+&lt;li&gt;Pradeesh Parameswaran&lt;/li&gt;
 &lt;li&gt;Mark Qiao&lt;/li&gt;
 &lt;li&gt;Falk Scholer&lt;/li&gt;
 &lt;li&gt;Milad Shokouhi&lt;/li&gt;
 &lt;li&gt;Michal Siedlaczek&lt;/li&gt;
 &lt;li&gt;Torsten Suel&lt;/li&gt;
+&lt;li&gt;Paul Thomas&lt;/li&gt;
+&lt;li&gt;Nicola Tonellotto&lt;/li&gt;
 &lt;li&gt;Andrew Trotman&lt;/li&gt;
 &lt;li&gt;Arjen de Vries&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Flexible Framework for Offline Effectiveness Metrics</title>
+      <link>https://JMMackenzie.io/publication/sigir22-long/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir22-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Learned Sparse Retrieval with Guided Traversal</title>
+      <link>https://JMMackenzie.io/publication/sigir22-short/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir22-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Common Framework for Exploring Document-at-a-Time and Score-at-a-Time Retrieval Methods</title>
+      <link>https://JMMackenzie.io/publication/sigir22-demo/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir22-demo/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -199,33 +232,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <guid>https://JMMackenzie.io/publication/sigir21/</guid>
       <description>&lt;p&gt;&lt;em&gt;Errata:&lt;/em&gt; The journal entry for reference [22] (Pibiri and Venturini) should be &amp;ldquo;ACM Computing Surveys&amp;rdquo;, not &amp;ldquo;ACM Transactions on Information Systems&amp;rdquo; as listed in the paper.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>ERR is not C/W/L: Exploring the Relationship Between Expected Reciprocal Rank and Other Metrics</title>
-      <link>https://JMMackenzie.io/publication/ictir21-cwl/</link>
-      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/ictir21-cwl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modality Effects When Simulating User Querying Tasks</title>
-      <link>https://JMMackenzie.io/publication/ictir21-uqv/</link>
-      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/ictir21-uqv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Different Keystrokes for Different Folks: Visualizing Crowdworker Querying Behavior</title>
-      <link>https://JMMackenzie.io/publication/chiir21-short/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/chiir21-short/</guid>
-      <description></description>
     </item>
     
   </channel>
