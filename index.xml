@@ -165,6 +165,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>Brisbane-Udine-Melbourne (BUM)@CLEF2022 CheckThat! Lab: A Composite Deep Learning Approach to Fake News Detection using Evidence Retrieval</title>
+      <link>https://JMMackenzie.io/publication/clef22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/clef22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Query Processing Techniques for Next-Page Retrieval</title>
       <link>https://JMMackenzie.io/publication/irj22/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
@@ -225,16 +234,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       
       <guid>https://JMMackenzie.io/publication/desires21/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Faster Index Reordering with Bipartite Graph Partitioning</title>
-      <link>https://JMMackenzie.io/publication/sigir21/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir21/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Errata:&lt;/em&gt; The journal entry for reference [22] (Pibiri and Venturini) should be &amp;ldquo;ACM Computing Surveys&amp;rdquo;, not &amp;ldquo;ACM Transactions on Information Systems&amp;rdquo; as listed in the paper.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

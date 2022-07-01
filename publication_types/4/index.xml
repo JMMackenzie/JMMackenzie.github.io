@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Brisbane-Udine-Melbourne (BUM)@CLEF2022 CheckThat! Lab: A Composite Deep Learning Approach to Fake News Detection using Evidence Retrieval</title>
+      <link>https://JMMackenzie.io/publication/clef22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/clef22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conferences, Journals, Preprints, and Reviewer Expectations</title>
