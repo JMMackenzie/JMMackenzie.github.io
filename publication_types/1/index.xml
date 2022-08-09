@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IOQP: A simple Impact-Ordered Query Processor written in Rust</title>
+      <link>https://JMMackenzie.io/publication/desires22/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/desires22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Flexible Framework for Offline Effectiveness Metrics</title>

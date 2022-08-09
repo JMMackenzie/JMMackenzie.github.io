@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,7 +15,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/teaching/teaching/</guid>
-      <description>&lt;p&gt;I have previously been a tutor and/or a lab assistant for the following courses at RMIT University:&lt;/p&gt;
+      <description>&lt;p&gt;I am currently the course coordinator and lecturer for &lt;a href=&#34;https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3200&#34; target=&#34;_blank&#34;&gt;INFS3200: Advanced Database Systems&lt;/a&gt;
+at the University of Queensland.&lt;/p&gt;
+
+&lt;p&gt;I have previously been a tutor and/or a lab assistant for the following courses at RMIT University:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;COSC1105/COSC1007: &lt;a href=&#34;http://www1.rmit.edu.au/courses/004108&#34; target=&#34;_blank&#34;&gt;Computing Theory&lt;/a&gt;&lt;/li&gt;
@@ -138,6 +141,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>IOQP: A simple Impact-Ordered Query Processor written in Rust</title>
+      <link>https://JMMackenzie.io/publication/desires22/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/desires22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Flexible Framework for Offline Effectiveness Metrics</title>
       <link>https://JMMackenzie.io/publication/sigir22-long/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
@@ -170,6 +182,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/clef22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on the 25th Australasian Document Computing Symposium (ADCS 2021)</title>
+      <link>https://JMMackenzie.io/publication/forum22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/forum22/</guid>
       <description></description>
     </item>
     
@@ -215,24 +236,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/arxiv21-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wacky Weights in Learned Sparse Representations and the Revenge of Score-at-a-Time Query Evaluation</title>
-      <link>https://JMMackenzie.io/publication/arxiv21/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/arxiv21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications</title>
-      <link>https://JMMackenzie.io/publication/desires21/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/desires21/</guid>
       <description></description>
     </item>
     

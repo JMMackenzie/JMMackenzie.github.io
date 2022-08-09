@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>IOQP: A simple Impact-Ordered Query Processor written in Rust</title>
+      <link>https://JMMackenzie.io/publication/desires22/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/desires22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Flexible Framework for Offline Effectiveness Metrics</title>
       <link>https://JMMackenzie.io/publication/sigir22-long/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
@@ -45,6 +54,15 @@
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/clef22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on the 25th Australasian Document Computing Symposium (ADCS 2021)</title>
+      <link>https://JMMackenzie.io/publication/forum22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/forum22/</guid>
       <description></description>
     </item>
     
