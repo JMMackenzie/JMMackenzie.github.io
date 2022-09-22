@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -141,6 +141,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>Tradeoff Options for Bipartite Graph Partitioning</title>
+      <link>https://JMMackenzie.io/publication/tkde22/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/tkde22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IOQP: A simple Impact-Ordered Query Processor written in Rust</title>
       <link>https://JMMackenzie.io/publication/desires22/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
@@ -227,15 +236,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/adcs21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Sensitivity Analysis of the MSMARCO Collection</title>
-      <link>https://JMMackenzie.io/publication/arxiv21-2/</link>
-      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/arxiv21-2/</guid>
       <description></description>
     </item>
     
