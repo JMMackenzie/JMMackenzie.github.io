@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -66,12 +66,12 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2018/&#34; target=&#34;_blank&#34;&gt;ADCS 2018&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.bhcc-symposium.com/&#34; target=&#34;_blank&#34;&gt;BHCC 2021&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://cikm2017.org&#34; target=&#34;_blank&#34;&gt;CIKM 2017&lt;/a&gt;, &lt;a href=&#34;http://www.cikm2018.units.it&#34; target=&#34;_blank&#34;&gt;CIKM 2018&lt;/a&gt;, &lt;a href=&#34;http://www.cikm2019.net/&#34; target=&#34;_blank&#34;&gt;CIKM 2019&lt;/a&gt;, &lt;a href=&#34;https://cikm2020.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2020&lt;/a&gt;, &lt;a href=&#34;https://www.cikm2021.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2021&lt;/a&gt;, &lt;a href=&#34;https://www.cikm2022.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2022&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ecir2021.eu/&#34; target=&#34;_blank&#34;&gt;ECIR 2021&lt;/a&gt;, &lt;a href=&#34;https://ecir2022.org/&#34; target=&#34;_blank&#34;&gt;ECIR 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ecir2021.eu/&#34; target=&#34;_blank&#34;&gt;ECIR 2021&lt;/a&gt;, &lt;a href=&#34;https://ecir2022.org/&#34; target=&#34;_blank&#34;&gt;ECIR 2022&lt;/a&gt;, &lt;a href=&#34;https://ecir2023.org/&#34; target=&#34;_blank&#34;&gt;ECIR 2023&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://2021.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2021&lt;/a&gt;, &lt;a href=&#34;https://2022.emnlp.org&#34; target=&#34;_blank&#34;&gt;EMNLP 2022&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2019/&#34; target=&#34;_blank&#34;&gt;SIGIR 2019&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2020/&#34; target=&#34;_blank&#34;&gt;SIGIR 2020&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2021/&#34; target=&#34;_blank&#34;&gt;SIGIR 2021&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2022/&#34; target=&#34;_blank&#34;&gt;SIGIR 2022&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.kdd.org/kdd2021/&#34; target=&#34;_blank&#34;&gt;SIGKDD 2021&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wsdm-conference.org/2021/&#34; target=&#34;_blank&#34;&gt;WSDM 2021&lt;/a&gt;, &lt;a href=&#34;https://www.wsdm-conference.org/2022/&#34; target=&#34;_blank&#34;&gt;WSDM 2022&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www2022.thewebconf.org/&#34; target=&#34;_blank&#34;&gt;WWW 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wsdm-conference.org/2021/&#34; target=&#34;_blank&#34;&gt;WSDM 2021&lt;/a&gt;, &lt;a href=&#34;https://www.wsdm-conference.org/2022/&#34; target=&#34;_blank&#34;&gt;WSDM 2022&lt;/a&gt;, &lt;a href=&#34;https://www.wsdm-conference.org/2023/&#34; target=&#34;_blank&#34;&gt;WSDM 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www2022.thewebconf.org/&#34; target=&#34;_blank&#34;&gt;WWW 2022&lt;/a&gt;, &lt;a href=&#34;https://www2023.thewebconf.org/&#34; target=&#34;_blank&#34;&gt;WWW 2023&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I was an area chair for &lt;a href=&#34;https://coling2022.org/&#34; target=&#34;_blank&#34;&gt;COLING 2022&lt;/a&gt;.&lt;/p&gt;
@@ -87,6 +87,7 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;https://2020.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://dl.acm.org/journal/tois&#34; target=&#34;_blank&#34;&gt;ACM Transactions on Information Systems&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://insights-workshop.github.io/&#34; target=&#34;_blank&#34;&gt;INSIGHTS@ACL 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sciencedirect.com/journal/information-processing-and-management&#34; target=&#34;_blank&#34;&gt;Information Processing &amp;amp; Management&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I also review grants for the &lt;a href=&#34;https://www.arc.gov.au/&#34; target=&#34;_blank&#34;&gt;Australian Research Council (ARC)&lt;/a&gt;.&lt;/p&gt;
@@ -138,6 +139,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 &lt;li&gt;Arjen de Vries&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Accelerating Learned Sparse Indexes Via Term Impact Decomposition</title>
+      <link>https://JMMackenzie.io/publication/emnlp22/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/emnlp22/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -227,15 +237,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/forum21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cost-Effective Updating of Distributed Reordered Indexes</title>
-      <link>https://JMMackenzie.io/publication/adcs21/</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/adcs21/</guid>
       <description></description>
     </item>
     
