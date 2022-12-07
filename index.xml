@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -15,8 +15,18 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/teaching/teaching/</guid>
-      <description>&lt;p&gt;I am currently the course coordinator and lecturer for &lt;a href=&#34;https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3200&#34; target=&#34;_blank&#34;&gt;INFS3200: Advanced Database Systems&lt;/a&gt;
-at the University of Queensland.&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;the-university-of-queensland&#34;&gt;The University of Queensland&lt;/h2&gt;
+
+&lt;p&gt;I am the course coordinator and lecturer for &lt;a href=&#34;https://my.uq.edu.au/programs-courses/course.html?course_code=DATA7001&#34; target=&#34;_blank&#34;&gt;DATA7001: Introduction to Data Science&lt;/a&gt;
+with &lt;a href=&#34;https://guoxin.github.io/&#34; target=&#34;_blank&#34;&gt;Dr Xin Guo&lt;/a&gt; during semester 1, 2023, and for &lt;a href=&#34;https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3506&#34; target=&#34;_blank&#34;&gt;COMP3506: Algorithms &amp;amp; Data Structures&lt;/a&gt;
+during semester 2, 2023.&lt;/p&gt;
+
+&lt;p&gt;I was the course coordinator and lecturer for &lt;a href=&#34;https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3200&#34; target=&#34;_blank&#34;&gt;INFS3200: Advanced Database Systems&lt;/a&gt;
+at the University of Queensland during Semester 2, 2022.&lt;/p&gt;
+
+&lt;h2 id=&#34;rmit-university&#34;&gt;RMIT University&lt;/h2&gt;
 
 &lt;p&gt;I have previously been a tutor and/or a lab assistant for the following courses at RMIT University:&lt;/p&gt;
 
@@ -50,10 +60,13 @@ at the University of Queensland.&lt;/p&gt;
 
 &lt;h2 id=&#34;conference-chair&#34;&gt;Conference Chair&lt;/h2&gt;
 
+&lt;p&gt;I was a program co-chair for &lt;a href=&#34;http://adcs-conference.org/2022/&#34; target=&#34;_blank&#34;&gt;ADCS 2022&lt;/a&gt;
+with &lt;a href=&#34;https://people.csiro.au/R/M/maciek-rybinski&#34; target=&#34;_blank&#34;&gt;Maciek Rybinski&lt;/a&gt; which
+was held at Flinders University in Adelaide.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&#34;https://www.damianospina.com/&#34; target=&#34;_blank&#34;&gt;Damiano Spina&lt;/a&gt; and I were the general chairs
 of &lt;a href=&#34;http://adcs-conference.org/2021/&#34; target=&#34;_blank&#34;&gt;ADCS 2021&lt;/a&gt; which was held as a virtual
-seminar series. I will be a program co-chair for &lt;a href=&#34;http://adcs-conference.org/2022/&#34; target=&#34;_blank&#34;&gt;ADCS 2022&lt;/a&gt;
-with &lt;a href=&#34;https://people.csiro.au/R/M/maciek-rybinski&#34; target=&#34;_blank&#34;&gt;Maciek Rybinksi&lt;/a&gt;.&lt;/p&gt;
+seminar series.&lt;/p&gt;
 
 &lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;,
 and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;CHIIR 2021&lt;/a&gt;.&lt;/p&gt;
@@ -139,6 +152,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
 &lt;li&gt;Arjen de Vries&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Efficient Document-at-a-Time and Score-at-a-Time Query Evaluation for Learned Sparse Representations</title>
+      <link>https://JMMackenzie.io/publication/tois22/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/tois22/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -228,15 +250,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/tois21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conferences, Journals, Preprints, and Reviewer Expectations</title>
-      <link>https://JMMackenzie.io/publication/forum21/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/forum21/</guid>
       <description></description>
     </item>
     
