@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recruitment on Joel Mackenzie</title>
+    <link>https://JMMackenzie.io/recruiting/</link>
+    <description>Recent content in Recruitment on Joel Mackenzie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023 Joel Mackenzie</copyright>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="https://JMMackenzie.io/recruiting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recruitment</title>
+      <link>https://JMMackenzie.io/recruiting/recruiting/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/recruiting/recruiting/</guid>
+      <description>Information for Prospective Students Please carefully read all of the following information before contacting me.
+Available Positions Currently, I do not have any funded positions open. However, there are positions available for one or more outstanding applicants who qualify for an international scholarship through UQ, or an Australian government Research Training Scholarship position. These scholarships are extremely competitive, but possible to get if you have strong evidence of research ability.</description>
+    </item>
+    
+  </channel>
+</rss>

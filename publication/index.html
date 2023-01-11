@@ -355,6 +355,9 @@ digital library.</p>
         
         
       
+        
+        
+      
 
       <p>
         Filter by type:
@@ -388,6 +391,10 @@ digital library.</p>
           <option value="*">All</option>
           
           
+          
+          <option value=".year-2023">
+            2023
+          </option>
           
           <option value=".year-2022">
             2022
@@ -426,6 +433,74 @@ digital library.</p>
       </p>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-2 year-2023">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/ipm23/" itemprop="url">Efficient Immediate-Access Dynamic Indexing</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    In a dynamic retrieval system, documents must be ingested as they arrive, and be immediately findable by queries. Our purpose in this paper is to describe an index structure and processing regime that accommodates that requirement for immediate access, seeking to make the ingestion process as streamlined as possible, while at the same time seeking to make the growing index as small as possible, and seeking to make term-based querying via the index as efficient as possible. We describe a new compression operation and a novel approach to extensible lists which together facilitate that triple goal. In particular, the structure we describe provides incremental document-level indexing using as little as two bytes per posting and only a small amount more for word-level indexing; provides fast document insertion; supports immediate and continuous queryability; provides support for fast conjunctive queries and similarity score-based ranked queries; and facilitates fast conversion of the dynamic index to a “normal” static compressed inverted index structure. Measurement of our new mechanism confirms that in-memory dynamic document-level indexes for collections into the gigabyte range can be constructed at a rate of two gigabytes/minute using a typical server architecture, that multi-term conjunctive Boolean queries can be resolved in just a few milliseconds each on average even while new documents are being concurrently ingested, and that the net memory space required for all of the required data structures amounts to an average of as little as two bytes per stored posting, less than half the space required by the best previous mechanism.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    A. Moffat and J. Mackenzie
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    IPM,
+    2023</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/mm23-ipm.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
         
 
         
@@ -3424,7 +3499,7 @@ digital library.</p>
   <div class="container">
     <p class="powered-by">
 
-      &copy; 2022 Joel Mackenzie &middot; 
+      &copy; 2023 Joel Mackenzie &middot; 
 
       Powered by the
       <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

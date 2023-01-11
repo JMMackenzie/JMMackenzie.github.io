@@ -5,9 +5,72 @@
     <description>Recent content in Joel Mackenzie on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2023 Joel Mackenzie</copyright>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Recruitment</title>
+      <link>https://JMMackenzie.io/recruiting/recruiting/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/recruiting/recruiting/</guid>
+      <description>
+
+&lt;h2 id=&#34;information-for-prospective-students&#34;&gt;Information for Prospective Students&lt;/h2&gt;
+
+&lt;p&gt;Please carefully read all of the following information before contacting me.&lt;/p&gt;
+
+&lt;h2 id=&#34;available-positions&#34;&gt;Available Positions&lt;/h2&gt;
+
+&lt;p&gt;Currently, I do not have any &lt;strong&gt;funded&lt;/strong&gt; positions open. However, there are
+positions available for one or more outstanding applicants who qualify for
+an international scholarship through UQ, or an Australian government Research
+Training Scholarship position. These scholarships are extremely competitive,
+but possible to get if you have strong evidence of research ability. Please
+get in touch with me if you think you may qualify for either of these
+programs and are interested in working with me.&lt;/p&gt;
+
+&lt;p&gt;I am available for supervision of honours or masters students at UQ.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-selection-criteria&#34;&gt;Key Selection Criteria&lt;/h2&gt;
+
+&lt;p&gt;Candidates for a PhD program should have at least one of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A first class honours degree in Computer Science or an adjacent field such
+as Mathematics or Electrical Engineering from an Australian University;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rank in the top 20% of the class and attend a good national university;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rank in the top 30% of the class and attend a top 50 university; or&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Have a publication in an information retrieval or algorithms conference
+or journal such as SIGIR, WSDM, ECIR, WWW, SIGKDD, SIGMOD, VLDB, TKDE, EMNLP,
+ACL, TOIS, &amp;hellip;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, it is useful to have any of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Top programming ability, especially in systems languages like C, C++, or Rust,
+as evidenced by a portfolio such as a Github account;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A recommendation letter from a well respected academic in the field; or&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Suitable industry experience in the project area.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
+
+&lt;p&gt;The best thing to do is to send me an email with a brief sketch of who you are,
+why you want to pursue a research career, what you&amp;rsquo;d like to work on, and how
+you think our interests align. You can include your CV, any appropriate
+publications or links to portfolios, academic transcripts, and so on.
+Please try to keep the email short and aim to address the selection criteria
+above.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Teaching</title>
@@ -155,6 +218,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>Efficient Immediate-Access Dynamic Indexing</title>
+      <link>https://JMMackenzie.io/publication/ipm23/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ipm23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Document-at-a-Time and Score-at-a-Time Query Evaluation for Learned Sparse Representations</title>
       <link>https://JMMackenzie.io/publication/tois22/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
@@ -232,24 +304,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/clef22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Report on the 25th Australasian Document Computing Symposium (ADCS 2021)</title>
-      <link>https://JMMackenzie.io/publication/forum22/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/forum22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Query Processing Techniques for Next-Page Retrieval</title>
-      <link>https://JMMackenzie.io/publication/irj22/</link>
-      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/irj22/</guid>
       <description></description>
     </item>
     
