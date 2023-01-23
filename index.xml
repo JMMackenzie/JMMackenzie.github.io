@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -218,6 +218,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>Index-Based Batch Query Processing Revisited</title>
+      <link>https://JMMackenzie.io/publication/ecir23/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Immediate-Access Dynamic Indexing</title>
       <link>https://JMMackenzie.io/publication/ipm23/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
@@ -295,15 +304,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/sigir22-demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brisbane-Udine-Melbourne (BUM)@CLEF2022 CheckThat! Lab: A Composite Deep Learning Approach to Fake News Detection using Evidence Retrieval</title>
-      <link>https://JMMackenzie.io/publication/clef22/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/clef22/</guid>
       <description></description>
     </item>
     
