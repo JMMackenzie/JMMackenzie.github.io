@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Joel Mackenzie</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -218,6 +218,24 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>Profiling and Visualizing Dynamic Pruning Algorithms</title>
+      <link>https://JMMackenzie.io/publication/sigir23-demo/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir23-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReNeuIR at SIGIR 2023: The Second Workshop on Reaching Efficiency in Neural Information Retrieval</title>
+      <link>https://JMMackenzie.io/publication/sigir23-workshop/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir23-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Index-Based Batch Query Processing Revisited</title>
       <link>https://JMMackenzie.io/publication/ecir23/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
@@ -286,24 +304,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/sigir22-long/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Faster Learned Sparse Retrieval with Guided Traversal</title>
-      <link>https://JMMackenzie.io/publication/sigir22-short/</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir22-short/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Common Framework for Exploring Document-at-a-Time and Score-at-a-Time Retrieval Methods</title>
-      <link>https://JMMackenzie.io/publication/sigir22-demo/</link>
-      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir22-demo/</guid>
       <description></description>
     </item>
     
