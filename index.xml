@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Joel Mackenzie</copyright>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -218,6 +218,15 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
     </item>
     
     <item>
+      <title>Exploring the Representation Power of SPLADE Models</title>
+      <link>https://JMMackenzie.io/publication/ictir23-splade/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ictir23-splade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Profiling and Visualizing Dynamic Pruning Algorithms</title>
       <link>https://JMMackenzie.io/publication/sigir23-demo/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
@@ -295,15 +304,6 @@ and &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/desires22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Flexible Framework for Offline Effectiveness Metrics</title>
-      <link>https://JMMackenzie.io/publication/sigir22-long/</link>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir22-long/</guid>
       <description></description>
     </item>
     
