@@ -6,7 +6,7 @@
     <description>Recent content in Service on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2023 Joel Mackenzie</copyright>
+    <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
     <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/service/index.xml" rel="self" type="application/rss+xml" />
@@ -18,11 +18,11 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/service/service/</guid>
-      <description>Conference Chair I was a program co-chair for ADCS 2022 with Maciek Rybinski which was held at Flinders University in Adelaide.
+      <description>Organisation I was a program co-chair for ADCS 2022 with Maciek Rybinski which was held at Flinders University in Adelaide.
 Damiano Spina and I were the general chairs of ADCS 2021 which was held as a virtual seminar series.
-I was the proceedings chair for WSDM 2019, and CHIIR 2021.
-Peer Reviewing I have been a PC member for the following conferences and workshops:
- ADCS 2018 BHCC 2021 CIKM 2017, CIKM 2018, CIKM 2019, CIKM 2020, CIKM 2021, CIKM 2022 ECIR 2021, ECIR 2022, ECIR 2023 EMNLP 2021, EMNLP 2022 SIGIR 2019, SIGIR 2020, SIGIR 2021, SIGIR 2022 SIGKDD 2021 WSDM 2021, WSDM 2022, WSDM 2023 WWW 2022, WWW 2023  I was an area chair for COLING 2022.</description>
+I was the demo track chair for SIGIR 2024 with Suzan Verberne.
+I was the proceedings chair for WSDM 2019, CHIIR 2021, and SIGIR-AP 2023 (with Johanne Trippas).
+I was a co-organiser of the Workshop on Reaching Efficiency in Neural IR which ran at SIGIR 2023 and SIGIR 2024.</description>
     </item>
     
   </channel>
