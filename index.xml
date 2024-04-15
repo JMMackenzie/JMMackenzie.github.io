@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title>Recruitment</title>
@@ -224,6 +224,15 @@ seminar series.&lt;/p&gt;
     </item>
     
     <item>
+      <title>What do Users Really Ask Large Language Models? An Initial Log Analysis of Google Bard Interactions in the Wild</title>
+      <link>https://JMMackenzie.io/publication/sigir24-short/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir24-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How Much Freedom Does An Effectiveness Metric Really Have?</title>
       <link>https://JMMackenzie.io/publication/jasist24/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
@@ -301,15 +310,6 @@ seminar series.&lt;/p&gt;
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/adcs22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerating Learned Sparse Indexes Via Term Impact Decomposition</title>
-      <link>https://JMMackenzie.io/publication/emnlp22/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/emnlp22/</guid>
       <description></description>
     </item>
     
