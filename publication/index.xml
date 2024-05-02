@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval</title>
+      <link>https://JMMackenzie.io/publication/sigir24-workshop/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir24-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Document Expansion and Filtering for Effective First-Stage Retrieval</title>
+      <link>https://JMMackenzie.io/publication/sigir24-repro/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir24-repro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What do Users Really Ask Large Language Models? An Initial Log Analysis of Google Bard Interactions in the Wild</title>

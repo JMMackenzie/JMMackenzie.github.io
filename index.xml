@@ -224,6 +224,24 @@ seminar series.&lt;/p&gt;
     </item>
     
     <item>
+      <title>ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval</title>
+      <link>https://JMMackenzie.io/publication/sigir24-workshop/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir24-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Document Expansion and Filtering for Effective First-Stage Retrieval</title>
+      <link>https://JMMackenzie.io/publication/sigir24-repro/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir24-repro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What do Users Really Ask Large Language Models? An Initial Log Analysis of Google Bard Interactions in the Wild</title>
       <link>https://JMMackenzie.io/publication/sigir24-short/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
@@ -292,24 +310,6 @@ seminar series.&lt;/p&gt;
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/ipm23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Document-at-a-Time and Score-at-a-Time Query Evaluation for Learned Sparse Representations</title>
-      <link>https://JMMackenzie.io/publication/tois22/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/tois22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Immediate-Access Indexing Using Space-Efficient Extensible Arrays</title>
-      <link>https://JMMackenzie.io/publication/adcs22/</link>
-      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/adcs22/</guid>
       <description></description>
     </item>
     

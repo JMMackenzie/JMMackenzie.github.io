@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval</title>
+      <link>https://JMMackenzie.io/publication/sigir24-workshop/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir24-workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ReNeuIR at SIGIR 2023: The Second Workshop on Reaching Efficiency in Neural Information Retrieval</title>
