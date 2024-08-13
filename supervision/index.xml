@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervision on Joel Mackenzie</title>
+    <link>https://JMMackenzie.io/supervision/</link>
+    <description>Recent content in Supervision on Joel Mackenzie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="https://JMMackenzie.io/supervision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://JMMackenzie.io/supervision/supervision/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/supervision/supervision/</guid>
+      <description>PhD Students  Watheq Mansour (primary advisor, current): Efficient and Effective Data Augmentation Strategies for Information Retrieval.
+ Dr Shengyao Zhuang (secondary advisor, graduated 2023): Teaching Pre-Trained Language Models to Rank Effectively, Efficiently, and Robustly.
+  Masters Students  Tharita Tipdecho (secondary advisor): TBA.  Honours Students  Zhixuan Li (graduated 2024): Exploring Batch Query Processing for Web Search.
+ Charlotte Pietsch (current): Revisiting Impact-Based Index Structures for Efficient Ranking.</description>
+    </item>
+    
+  </channel>
+</rss>

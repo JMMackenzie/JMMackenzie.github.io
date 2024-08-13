@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
-    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title>Recruitment</title>
@@ -68,6 +68,44 @@ you think our interests align. You can include your CV, any appropriate
 publications or links to portfolios, academic transcripts, and so on.
 Please try to keep the email short and aim to address the selection criteria
 above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://JMMackenzie.io/supervision/supervision/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/supervision/supervision/</guid>
+      <description>
+
+&lt;h1 id=&#34;phd-students&#34;&gt;PhD Students&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Watheq Mansour (primary advisor, current): Efficient and Effective Data Augmentation Strategies for Information Retrieval.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://arvinzhuang.github.io/&#34; target=&#34;_blank&#34;&gt;Dr Shengyao Zhuang&lt;/a&gt; (secondary advisor, graduated 2023): Teaching Pre-Trained Language Models to Rank Effectively, Efficiently, and Robustly.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;masters-students&#34;&gt;Masters Students&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tharita Tipdecho (secondary advisor): TBA.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;honours-students&#34;&gt;Honours Students&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Zhixuan Li (graduated 2024): Exploring Batch Query Processing for Web Search.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Charlotte Pietsch (current): Revisiting Impact-Based Index Structures for Efficient Ranking.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;potential-students&#34;&gt;Potential Students&lt;/h2&gt;
+
+&lt;p&gt;If you are interested in working with me and wish to pursue a higher degree by
+research, please read the information &lt;a href=&#34;https://JMMackenzie.io/recruiting&#34;&gt;on my recruiting page&lt;/a&gt; to find out more
+about selection criteria and how to apply.&lt;/p&gt;
 </description>
     </item>
     
@@ -224,6 +262,15 @@ seminar series.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions</title>
+      <link>https://JMMackenzie.io/publication/cikm24-long/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/cikm24-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval</title>
       <link>https://JMMackenzie.io/publication/sigir24-workshop/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
@@ -292,24 +339,6 @@ seminar series.&lt;/p&gt;
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/sigir23-workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Index-Based Batch Query Processing Revisited</title>
-      <link>https://JMMackenzie.io/publication/ecir23/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/ecir23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Immediate-Access Dynamic Indexing</title>
-      <link>https://JMMackenzie.io/publication/ipm23/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/ipm23/</guid>
       <description></description>
     </item>
     
