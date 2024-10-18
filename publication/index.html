@@ -402,6 +402,12 @@ digital library.</p>
         
         
       
+        
+        
+      
+        
+        
+      
 
       <p>
         Filter by type:
@@ -439,6 +445,10 @@ digital library.</p>
           <option value="*">All</option>
           
           
+          
+          <option value=".year-2025">
+            2025
+          </option>
           
           <option value=".year-2024">
             2024
@@ -485,6 +495,138 @@ digital library.</p>
       </p>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2025">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/alenex25/" itemprop="url">Batched $k$-mer lookup on the Spectral Burrows-Wheeler Transform</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Since their emergence some two decades ago, indexes based on the Burrows-Wheeler transform (BWT) have been intensely studied and today find wide use in genomics, where they form the basis of software tools for read alignment and $k$-mer lookup&mdash;routine tasks in modern data-intensive bioinformatics pipelines. BWT-based indexes reduce an existential query for a pattern $P$ of length $m$ to a sequence of up to $m$ pairs of rank queries on a sequence derived from the underlying indexed data. In general these rank queries exhibit poor locality of memory reference, with each pair causing one or two cache misses, something that has become generally accepted as a limitation of these indexes. However, in the above mentioned applications a typical experimental run will search for 100s of millions—even billions—of patterns using the index. In this paper we show that, taken across such a large set of patterns, rank queries do exhibit locality of memory reference a d that this can be exploited by reorganising the order in which rank queries are issued. We show this leads to significant performance gains—in particular, $k$-mer lookup queries can be answered several times faster when a batch of patterns is treated holistically.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    J. Alanko, E. Biagi, J. Mackenzie, and S. Puglisi
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    ALENEX,
+    2025</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2024">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/sigirap24/" itemprop="url">Rank-Biased Quality Measurement for Sets and Rankings</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Experiments often result in the need to compare an observation against a reference, where observation and reference are selections made from some specified domain. The goal is to determine how close the observation is to the ideal result represented by the reference, so that, all other things being equal, systems that achieve outputs closer to the ideal reference can be preferred for deployment. Both observation and reference might be sets of items, or might be ordered sequences (rankings) of items. There are thus four possible combinations between sets and rankings. Three of those possibilities are already familiar to IR researchers, and have received detailed exploration. Here we consider the fourth combination, that of comparing an observation set relative to a reference ranking. We introduce a new measurement that we call rank-biased recall to cover this scenario, and demonstrate its usefulness with a case study from multi-phase ranking. We also present a new top-weighted &lsquo;ranking compared to ranking&rsquo; measurement, and show that it represents a complementary assessment to the previous rank-biased overlap mechanism, and possesses distinctive characteristics.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    A. Moffat and J. Mackenzie and A. Mallia and M. Petri
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    SIGIR-AP,
+    2024</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/mmmp24-sigirap.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
         
 
         

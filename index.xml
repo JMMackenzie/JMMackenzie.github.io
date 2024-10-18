@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title>Recruitment</title>
@@ -262,6 +262,24 @@ seminar series.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Batched $k$-mer lookup on the Spectral Burrows-Wheeler Transform</title>
+      <link>https://JMMackenzie.io/publication/alenex25/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/alenex25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank-Biased Quality Measurement for Sets and Rankings</title>
+      <link>https://JMMackenzie.io/publication/sigirap24/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigirap24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions</title>
       <link>https://JMMackenzie.io/publication/cikm24-long/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
@@ -321,24 +339,6 @@ seminar series.&lt;/p&gt;
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/ictir23-splade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Profiling and Visualizing Dynamic Pruning Algorithms</title>
-      <link>https://JMMackenzie.io/publication/sigir23-demo/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir23-demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ReNeuIR at SIGIR 2023: The Second Workshop on Reaching Efficiency in Neural Information Retrieval</title>
-      <link>https://JMMackenzie.io/publication/sigir23-workshop/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir23-workshop/</guid>
       <description></description>
     </item>
     
