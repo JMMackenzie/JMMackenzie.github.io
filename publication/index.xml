@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Approximate Bag-of-Words Top-$k$ Corpus Graphs</title>
+      <link>https://JMMackenzie.io/publication/ecir25-short-1/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir25-short-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the Impact of Transcript Variation on Podcast Search and Re-Ranking</title>
+      <link>https://JMMackenzie.io/publication/ecir25-short-2/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir25-short-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Batched $k$-mer lookup on the Spectral Burrows-Wheeler Transform</title>
       <link>https://JMMackenzie.io/publication/alenex25/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
