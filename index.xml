@@ -5,8 +5,8 @@
     <description>Recent content in Joel Mackenzie on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2025 Joel Mackenzie</copyright>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title>Recruitment</title>
@@ -84,21 +84,31 @@ above.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Watheq Mansour (primary advisor, current): Efficient and Effective Data Augmentation Strategies for Information Retrieval.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://arvinzhuang.github.io/&#34; target=&#34;_blank&#34;&gt;Dr Shengyao Zhuang&lt;/a&gt; (secondary advisor, graduated 2023): Teaching Pre-Trained Language Models to Rank Effectively, Efficiently, and Robustly.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Daisuke Yukita (associate advisor, current): Human-centered Verification of Large Language Model Outputs.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Farid Ariai (associate advisor, current): Towards Multi-Jurisdictional Legal NLP Systems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pietro Bernardelle (associated advisor, current): Leveraging Personas to Study and Control Ideological Biases in Large Language Models.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://arvinzhuang.github.io/&#34; target=&#34;_blank&#34;&gt;Dr Shengyao Zhuang&lt;/a&gt; (associate advisor, graduated 2023): Teaching Pre-Trained Language Models to Rank Effectively, Efficiently, and Robustly.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;masters-students&#34;&gt;Masters Students&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Tharita Tipdecho (secondary advisor): TBA.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Stefano Civelli (associate advisor, current): Political Bias in Large Language Models for Content Moderation: a Persona-based Perspective.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chuting Yu (associated advisor, current): TBA.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;honours-students&#34;&gt;Honours Students&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Zhixuan Li (graduated 2024): Exploring Batch Query Processing for Web Search.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bill Rule (current): Fast, Compact, and Dynamic Indexing for Learned Sparse Retrieval Systems.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Charlotte Pietsch (current): Revisiting Impact-Based Index Structures for Efficient Ranking.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Charlotte Pietsch (graduated 2024): Revisiting Impact-Based Index Structures for Efficient Ranking.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zhixuan Li (graduated 2024): Exploring Batch Query Processing for Web Search.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;potential-students&#34;&gt;Potential Students&lt;/h2&gt;
@@ -119,10 +129,10 @@ about selection criteria and how to apply.&lt;/p&gt;
 
 &lt;h2 id=&#34;the-university-of-queensland&#34;&gt;The University of Queensland&lt;/h2&gt;
 
-&lt;p&gt;I am coordinating and lecturing &lt;a href=&#34;https://programs-courses.uq.edu.au/course.html?course_code=BSAN7207&#34; target=&#34;_blank&#34;&gt;BSAN7207: Social Analytics&lt;/a&gt; in semester 1, 2025.&lt;/p&gt;
-
 &lt;p&gt;I was the course coordinator and lecturer for &lt;a href=&#34;https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3506&#34; target=&#34;_blank&#34;&gt;COMP3506/COMP7505: Algorithms &amp;amp; Data Structures&lt;/a&gt;
-during semester 2, 2024, and in semester 2, 2023.&lt;/p&gt;
+during semester 2, 2023, 2024, and 2025. In 2025, I co-lectured this course with &lt;a href=&#34;https://about.uq.edu.au/experts/32110&#34; target=&#34;_blank&#34;&gt;Dr Joshua Arnold&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was the course coordinator and lecturer for &lt;a href=&#34;https://programs-courses.uq.edu.au/course.html?course_code=csse7610&#34; target=&#34;_blank&#34;&gt;CSSE7610: Concurrency: Theory and Practice&lt;/a&gt; with &lt;a href=&#34;https://about.uq.edu.au/experts/44067&#34; target=&#34;_blank&#34;&gt;Brae Webb&lt;/a&gt; in semester 2, 2025.&lt;/p&gt;
 
 &lt;p&gt;I was the course coordinator and lecturer for &lt;a href=&#34;https://my.uq.edu.au/programs-courses/course.html?course_code=DATA7001&#34; target=&#34;_blank&#34;&gt;DATA7001: Introduction to Data Science&lt;/a&gt;
 with &lt;a href=&#34;https://guoxin.github.io/&#34; target=&#34;_blank&#34;&gt;Dr Xin Guo&lt;/a&gt; during semester 1, 2023.&lt;/p&gt;
@@ -164,7 +174,7 @@ at the University of Queensland during Semester 2, 2022.&lt;/p&gt;
 
 &lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;
 
-&lt;p&gt;I am a short paper co-chair for &lt;a href=&#34;https://sigir2025.dei.unipd.it/&#34; target=&#34;_blank&#34;&gt;SIGIR 2025&lt;/a&gt; with &lt;a href=&#34;https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/&#34; target=&#34;_blank&#34;&gt;Ebrahim  Bagheri&lt;/a&gt; and &lt;a href=&#34;https://hasibi.com/&#34; target=&#34;_blank&#34;&gt;Faegheh Hasibi&lt;/a&gt; which will be held in Padua, Italy, in July, 2025.&lt;/p&gt;
+&lt;p&gt;I was a short paper co-chair for &lt;a href=&#34;https://sigir2025.dei.unipd.it/&#34; target=&#34;_blank&#34;&gt;SIGIR 2025&lt;/a&gt; with &lt;a href=&#34;https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/&#34; target=&#34;_blank&#34;&gt;Ebrahim  Bagheri&lt;/a&gt; and &lt;a href=&#34;https://hasibi.com/&#34; target=&#34;_blank&#34;&gt;Faegheh Hasibi&lt;/a&gt; which was held in Padua, Italy.&lt;/p&gt;
 
 &lt;p&gt;I was a program co-chair for &lt;a href=&#34;http://adcs-conference.org/2022/&#34; target=&#34;_blank&#34;&gt;ADCS 2022&lt;/a&gt;
 with &lt;a href=&#34;https://people.csiro.au/R/M/maciek-rybinski&#34; target=&#34;_blank&#34;&gt;Maciek Rybinski&lt;/a&gt; which
@@ -176,45 +186,16 @@ seminar series.&lt;/p&gt;
 
 &lt;p&gt;I was the demo track chair for &lt;a href=&#34;https://sigir-2024.github.io/&#34; target=&#34;_blank&#34;&gt;SIGIR 2024&lt;/a&gt; with &lt;a href=&#34;https://liacs.leidenuniv.nl/~verbernes/&#34; target=&#34;_blank&#34;&gt;Suzan Verberne&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;CHIIR 2021&lt;/a&gt;, and &lt;a href=&#34;http://www.sigir-ap.org/sigir-ap-2023/&#34; target=&#34;_blank&#34;&gt;SIGIR-AP 2023&lt;/a&gt; (with &lt;a href=&#34;https://www.johannetrippas.com/&#34; target=&#34;_blank&#34;&gt;Johanne Trippas&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I was the proceedings chair for &lt;a href=&#34;http://www.wsdm-conference.org/2019/&#34; target=&#34;_blank&#34;&gt;WSDM 2019&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/chiir2021&#34; target=&#34;_blank&#34;&gt;CHIIR 2021&lt;/a&gt;, &lt;a href=&#34;http://www.sigir-ap.org/sigir-ap-2023/&#34; target=&#34;_blank&#34;&gt;SIGIR-AP 2023&lt;/a&gt; (with &lt;a href=&#34;https://www.johannetrippas.com/&#34; target=&#34;_blank&#34;&gt;Johanne Trippas&lt;/a&gt;), and &lt;a href=&#34;https://chiir2025.github.io/&#34; target=&#34;_blank&#34;&gt;CHIIR2025&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I was a co-organiser of the &lt;a href=&#34;https://reneuir.org/&#34; target=&#34;_blank&#34;&gt;Workshop on Reaching Efficiency in Neural IR&lt;/a&gt; which ran at SIGIR 2023 and SIGIR 2024.&lt;/p&gt;
+&lt;p&gt;I was a co-organiser of the &lt;a href=&#34;https://reneuir.org/&#34; target=&#34;_blank&#34;&gt;Workshop on Reaching Efficiency in Neural IR&lt;/a&gt; at SIGIR 2023 and SIGIR 2024.&lt;/p&gt;
+
+&lt;p&gt;I am a co-organiser of the Workshop on Agentic AI in Financial Services at AAAI 2026.&lt;/p&gt;
 
 &lt;h2 id=&#34;peer-reviewing&#34;&gt;Peer Reviewing&lt;/h2&gt;
 
-&lt;p&gt;I have been a PC/SPC member for the following conferences and workshops:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2018/&#34; target=&#34;_blank&#34;&gt;ADCS 2018&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bhcc-symposium.com/&#34; target=&#34;_blank&#34;&gt;BHCC 2021&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cikm2017.org&#34; target=&#34;_blank&#34;&gt;CIKM 2017&lt;/a&gt;, &lt;a href=&#34;http://www.cikm2018.units.it&#34; target=&#34;_blank&#34;&gt;CIKM 2018&lt;/a&gt;, &lt;a href=&#34;http://www.cikm2019.net/&#34; target=&#34;_blank&#34;&gt;CIKM 2019&lt;/a&gt;, &lt;a href=&#34;https://cikm2020.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2020&lt;/a&gt;, &lt;a href=&#34;https://www.cikm2021.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2021&lt;/a&gt;, &lt;a href=&#34;https://www.cikm2022.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2022&lt;/a&gt;, &lt;a href=&#34;https://uobevents.eventsair.com/cikm2023/&#34; target=&#34;_blank&#34;&gt;CIKM 2023&lt;/a&gt;, &lt;a href=&#34;https://cikm2024.org/&#34; target=&#34;_blank&#34;&gt;CIKM 2024&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ecir2021.eu/&#34; target=&#34;_blank&#34;&gt;ECIR 2021&lt;/a&gt;, &lt;a href=&#34;https://ecir2022.org/&#34; target=&#34;_blank&#34;&gt;ECIR 2022&lt;/a&gt;, &lt;a href=&#34;https://ecir2023.org/&#34; target=&#34;_blank&#34;&gt;ECIR 2023&lt;/a&gt;, &lt;a href=&#34;https://www.ecir2024.org/&#34; target=&#34;_blank&#34;&gt;ECIR 2024&lt;/a&gt;, &lt;a href=&#34;https://ecir2025.eu/&#34; target=&#34;_blank&#34;&gt;ECIR 2025&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://2021.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2021&lt;/a&gt;, &lt;a href=&#34;https://2022.emnlp.org&#34; target=&#34;_blank&#34;&gt;EMNLP 2022&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sigir.org/sigir2019/&#34; target=&#34;_blank&#34;&gt;SIGIR 2019&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2020/&#34; target=&#34;_blank&#34;&gt;SIGIR 2020&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2021/&#34; target=&#34;_blank&#34;&gt;SIGIR 2021&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2022/&#34; target=&#34;_blank&#34;&gt;SIGIR 2022&lt;/a&gt;, &lt;a href=&#34;https://sigir.org/sigir2023/&#34; target=&#34;_blank&#34;&gt;SIGIR2023&lt;/a&gt;, &lt;a href=&#34;https://sigir-2024.github.io/&#34; target=&#34;_blank&#34;&gt;SIGIR 2024&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sigir-ap.org/sigir-ap-2023/&#34; target=&#34;_blank&#34;&gt;SIGIR-AP 2023&lt;/a&gt;, &lt;a href=&#34;https://www.sigir-ap.org/sigir-ap-2024/&#34; target=&#34;_blank&#34;&gt;SIGIR-AP 2024&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kdd.org/kdd2021/&#34; target=&#34;_blank&#34;&gt;SIGKDD 2021&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://spire2023.isti.cnr.it/&#34; target=&#34;_blank&#34;&gt;SPIRE 2023&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wsdm-conference.org/2021/&#34; target=&#34;_blank&#34;&gt;WSDM 2021&lt;/a&gt;, &lt;a href=&#34;https://www.wsdm-conference.org/2022/&#34; target=&#34;_blank&#34;&gt;WSDM 2022&lt;/a&gt;, &lt;a href=&#34;https://www.wsdm-conference.org/2023/&#34; target=&#34;_blank&#34;&gt;WSDM 2023&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www2022.thewebconf.org/&#34; target=&#34;_blank&#34;&gt;WWW 2022&lt;/a&gt;, &lt;a href=&#34;https://www2023.thewebconf.org/&#34; target=&#34;_blank&#34;&gt;WWW 2023&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I was an area chair for &lt;a href=&#34;https://coling2022.org/&#34; target=&#34;_blank&#34;&gt;COLING 2022&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I have been a reviewer for the following conferences, journals, and workshops:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://adcs-conference.org/2016&#34; target=&#34;_blank&#34;&gt;ADCS 2016&lt;/a&gt;, &lt;a href=&#34;http://adcs-conference.org/2017&#34; target=&#34;_blank&#34;&gt;ADCS 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sigir.org/sigir2016/&#34; target=&#34;_blank&#34;&gt;SIGIR 2016&lt;/a&gt;, &lt;a href=&#34;http://sigir.org/sigir2017/&#34; target=&#34;_blank&#34;&gt;SIGIR 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vldb.org/2017/&#34; target=&#34;_blank&#34;&gt;VLDB 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://journals.sagepub.com/home/jis&#34; target=&#34;_blank&#34;&gt;The Journal of Information Science&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://spire19.lbd.org.es/&#34; target=&#34;_blank&#34;&gt;SPIRE 2019&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://2020.emnlp.org/&#34; target=&#34;_blank&#34;&gt;EMNLP 2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/journal/tois&#34; target=&#34;_blank&#34;&gt;ACM Transactions on Information Systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://insights-workshop.github.io/&#34; target=&#34;_blank&#34;&gt;INSIGHTS@ACL 2022&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sciencedirect.com/journal/information-processing-and-management&#34; target=&#34;_blank&#34;&gt;Information Processing &amp;amp; Management&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also review grants for the &lt;a href=&#34;https://www.arc.gov.au/&#34; target=&#34;_blank&#34;&gt;Australian Research Council (ARC)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have been a PC/SPC member for a range of conferences, journals, workshops.
+Please see my CV for more details.&lt;/p&gt;
 </description>
     </item>
     
@@ -263,6 +244,24 @@ seminar series.&lt;/p&gt;
 &lt;li&gt;Arjen de Vries&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Flexible Resource for Top-Weighted Comparisons Between Sets and Rankings</title>
+      <link>https://JMMackenzie.io/publication/sigir25-resource/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir25-resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient In-Memory Inverted Indexes: Theory and Practice</title>
+      <link>https://JMMackenzie.io/publication/sigir25-tutorial/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir25-tutorial/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -325,24 +324,6 @@ seminar series.&lt;/p&gt;
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/sigir24-repro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What do Users Really Ask Large Language Models? An Initial Log Analysis of Google Bard Interactions in the Wild</title>
-      <link>https://JMMackenzie.io/publication/sigir24-short/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir24-short/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Much Freedom Does An Effectiveness Metric Really Have?</title>
-      <link>https://JMMackenzie.io/publication/jasist24/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/jasist24/</guid>
       <description></description>
     </item>
     

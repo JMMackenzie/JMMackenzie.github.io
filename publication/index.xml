@@ -6,11 +6,29 @@
     <description>Recent content in Publications on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
+    <copyright>&amp;copy; 2025 Joel Mackenzie</copyright>
     <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Flexible Resource for Top-Weighted Comparisons Between Sets and Rankings</title>
+      <link>https://JMMackenzie.io/publication/sigir25-resource/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir25-resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient In-Memory Inverted Indexes: Theory and Practice</title>
+      <link>https://JMMackenzie.io/publication/sigir25-tutorial/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir25-tutorial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximate Bag-of-Words Top-$k$ Corpus Graphs</title>

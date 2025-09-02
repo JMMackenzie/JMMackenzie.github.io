@@ -6,7 +6,7 @@
     <description>Recent content in Supervision on Joel Mackenzie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2024 Joel Mackenzie</copyright>
+    <copyright>&amp;copy; 2025 Joel Mackenzie</copyright>
     <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/supervision/index.xml" rel="self" type="application/rss+xml" />
@@ -19,9 +19,10 @@
       
       <guid>https://JMMackenzie.io/supervision/supervision/</guid>
       <description>PhD Students  Watheq Mansour (primary advisor, current): Efficient and Effective Data Augmentation Strategies for Information Retrieval.
- Dr Shengyao Zhuang (secondary advisor, graduated 2023): Teaching Pre-Trained Language Models to Rank Effectively, Efficiently, and Robustly.
-  Masters Students  Tharita Tipdecho (secondary advisor): TBA.  Honours Students  Zhixuan Li (graduated 2024): Exploring Batch Query Processing for Web Search.
- Charlotte Pietsch (current): Revisiting Impact-Based Index Structures for Efficient Ranking.</description>
+ Daisuke Yukita (associate advisor, current): Human-centered Verification of Large Language Model Outputs.
+ Farid Ariai (associate advisor, current): Towards Multi-Jurisdictional Legal NLP Systems.
+ Pietro Bernardelle (associated advisor, current): Leveraging Personas to Study and Control Ideological Biases in Large Language Models.
+ Dr Shengyao Zhuang (associate advisor, graduated 2023): Teaching Pre-Trained Language Models to Rank Effectively, Efficiently, and Robustly.</description>
     </item>
     
   </channel>
