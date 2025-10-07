@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Joel Mackenzie</copyright>
-    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title>Recruitment</title>
@@ -88,7 +88,9 @@ above.&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;Farid Ariai (associate advisor, current): Towards Multi-Jurisdictional Legal NLP Systems.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Pietro Bernardelle (associated advisor, current): Leveraging Personas to Study and Control Ideological Biases in Large Language Models.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pietro Bernardelle (associate advisor, current): Leveraging Personas to Study and Control Ideological Biases in Large Language Models.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zhixuan Li (associate advisor, current): TBA.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://arvinzhuang.github.io/&#34; target=&#34;_blank&#34;&gt;Dr Shengyao Zhuang&lt;/a&gt; (associate advisor, graduated 2023): Teaching Pre-Trained Language Models to Rank Effectively, Efficiently, and Robustly.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -98,7 +100,7 @@ above.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Stefano Civelli (associate advisor, current): Political Bias in Large Language Models for Content Moderation: a Persona-based Perspective.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Chuting Yu (associated advisor, current): TBA.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Chuting Yu (associate advisor, current): TBA.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;honours-students&#34;&gt;Honours Students&lt;/h1&gt;
@@ -247,6 +249,15 @@ Please see my CV for more details.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Empirical Asymptotic Growth of Dynamic Pruning Mechanisms</title>
+      <link>https://JMMackenzie.io/publication/sigirap25/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigirap25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Flexible Resource for Top-Weighted Comparisons Between Sets and Rankings</title>
       <link>https://JMMackenzie.io/publication/sigir25-resource/</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
@@ -315,15 +326,6 @@ Please see my CV for more details.&lt;/p&gt;
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/sigir24-workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting Document Expansion and Filtering for Effective First-Stage Retrieval</title>
-      <link>https://JMMackenzie.io/publication/sigir24-repro/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir24-repro/</guid>
       <description></description>
     </item>
     
