@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>Fast, Compact, Immediate-Access Indexing for Learned Sparse Retrieval Systems</title>
+      <link>https://JMMackenzie.io/publication/ecir26-repro/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir26-repro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical, Efficient, In-Memory Inverted Indexes</title>
+      <link>https://JMMackenzie.io/publication/ecir26-tutorial/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir26-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Human-vs-LLM judgments using the TREC Podcast Track</title>
+      <link>https://JMMackenzie.io/publication/ecir26-short/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir26-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges</title>
       <link>https://JMMackenzie.io/publication/csur25/</link>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
@@ -198,7 +225,7 @@
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/adcs22/</guid>
-      <description></description>
+      <description>Errata: &amp;ldquo;12 segments&amp;rdquo; in Figure 2 should actually say &amp;ldquo;24 segments&amp;rdquo; - Thanks to Vivian McKnight who pointed this out, and my sincere apologies to Alistair Moffat who had the figure right in the first place before I re-created it for the paper&amp;hellip;</description>
     </item>
     
     <item>

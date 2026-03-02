@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026 Joel Mackenzie</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title>Recruitment</title>
@@ -100,13 +100,15 @@ above.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Stefano Civelli (associate advisor, current): Political Bias in Large Language Models for Content Moderation: a Persona-based Perspective.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Chuting Yu (associate advisor, current): TBA.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Chuting Yu (associate advisor, current): Understanding and Improving LLM-Based Relevance Judgement and Generation for Neural Retrieval.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;honours-students&#34;&gt;Honours Students&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Bill Rule (current): Fast, Compact, and Dynamic Indexing for Learned Sparse Retrieval Systems.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Joe Thorne (current): Visualizing Compiler Optimizations&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bill Rule (graduated 2025): Fast, Compact, and Dynamic Indexing for Learned Sparse Retrieval Systems.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Charlotte Pietsch (graduated 2024): Revisiting Impact-Based Index Structures for Efficient Ranking.&lt;/p&gt;&lt;/li&gt;
 
@@ -251,6 +253,33 @@ Please see my CV for more details.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Fast, Compact, Immediate-Access Indexing for Learned Sparse Retrieval Systems</title>
+      <link>https://JMMackenzie.io/publication/ecir26-repro/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir26-repro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical, Efficient, In-Memory Inverted Indexes</title>
+      <link>https://JMMackenzie.io/publication/ecir26-tutorial/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir26-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Human-vs-LLM judgments using the TREC Podcast Track</title>
+      <link>https://JMMackenzie.io/publication/ecir26-short/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/ecir26-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges</title>
       <link>https://JMMackenzie.io/publication/csur25/</link>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
@@ -301,33 +330,6 @@ Please see my CV for more details.&lt;/p&gt;
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/ecir25-short-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Batched $k$-mer lookup on the Spectral Burrows-Wheeler Transform</title>
-      <link>https://JMMackenzie.io/publication/alenex25/</link>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/alenex25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rank-Biased Quality Measurement for Sets and Rankings</title>
-      <link>https://JMMackenzie.io/publication/sigirap24/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigirap24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Re-evaluating the Command-and-Control Paradigm in Conversational Search Interactions</title>
-      <link>https://JMMackenzie.io/publication/cikm24-long/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/cikm24-long/</guid>
       <description></description>
     </item>
     
