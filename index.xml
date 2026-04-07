@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026 Joel Mackenzie</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title>Recruitment</title>
@@ -253,6 +253,15 @@ Please see my CV for more details.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Simple Techniques for Efficient Top-$k$ Batch Query Processing</title>
+      <link>https://JMMackenzie.io/publication/irrj26/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/irrj26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fast, Compact, Immediate-Access Indexing for Learned Sparse Retrieval Systems</title>
       <link>https://JMMackenzie.io/publication/ecir26-repro/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
@@ -321,15 +330,6 @@ Please see my CV for more details.&lt;/p&gt;
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/ecir25-short-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Examining the Impact of Transcript Variation on Podcast Search and Re-Ranking</title>
-      <link>https://JMMackenzie.io/publication/ecir25-short-2/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/ecir25-short-2/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026 Joel Mackenzie</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simple Techniques for Efficient Top-$k$ Batch Query Processing</title>
+      <link>https://JMMackenzie.io/publication/irrj26/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/irrj26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges</title>
