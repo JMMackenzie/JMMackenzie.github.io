@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026 Joel Mackenzie</copyright>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Report on the Agentic AI in Financial Services Workshop at AAAI 2026</title>
+      <link>https://JMMackenzie.io/publication/aaai26/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/aaai26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brisbane-Udine-Melbourne (BUM)@CLEF2022 CheckThat! Lab: A Composite Deep Learning Approach to Fake News Detection using Evidence Retrieval</title>
