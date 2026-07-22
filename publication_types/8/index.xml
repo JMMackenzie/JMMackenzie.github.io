@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026 Joel Mackenzie</copyright>
-    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JMMackenzie.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation</title>
+      <link>https://JMMackenzie.io/publication/sigir26-workshop/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir26-workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval</title>

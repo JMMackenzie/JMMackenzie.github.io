@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026 Joel Mackenzie</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title>Recruitment</title>
@@ -253,6 +253,33 @@ Please see my CV for more details.&lt;/p&gt;
     </item>
     
     <item>
+      <title>How Variability Influences Podcast Search: Queries, Transcriptions, and Judges</title>
+      <link>https://JMMackenzie.io/publication/sigir26-long/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir26-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When LLM Judges Inflate Scores: Exploring Overrating in Relevance Assessment</title>
+      <link>https://JMMackenzie.io/publication/sigir26-short/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir26-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation</title>
+      <link>https://JMMackenzie.io/publication/sigir26-workshop/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir26-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simple Techniques for Efficient Top-$k$ Batch Query Processing</title>
       <link>https://JMMackenzie.io/publication/irrj26/</link>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
@@ -303,33 +330,6 @@ Please see my CV for more details.&lt;/p&gt;
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://JMMackenzie.io/publication/csur25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Empirical Asymptotic Growth of Dynamic Pruning Mechanisms</title>
-      <link>https://JMMackenzie.io/publication/sigirap25/</link>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigirap25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Flexible Resource for Top-Weighted Comparisons Between Sets and Rankings</title>
-      <link>https://JMMackenzie.io/publication/sigir25-resource/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir25-resource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient In-Memory Inverted Indexes: Theory and Practice</title>
-      <link>https://JMMackenzie.io/publication/sigir25-tutorial/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://JMMackenzie.io/publication/sigir25-tutorial/</guid>
       <description></description>
     </item>
     

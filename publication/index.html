@@ -441,6 +441,15 @@ digital library.</p>
         
         
       
+        
+        
+      
+        
+        
+      
+        
+        
+      
 
       <p>
         Filter by type:
@@ -536,6 +545,210 @@ digital library.</p>
       </p>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2026">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/sigir26-long/" itemprop="url">How Variability Influences Podcast Search: Queries, Transcriptions, and Judges</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Podcasts have continued to grow in popularity over the last two decades, with more than 4.52 million podcasts and 584 million listeners across the globe in 2025. Developing effective search systems for web-scale podcast corpora is of vital importance. Previous research has approached the search task primarily through text representation using a single transcription of the audio content via automatic speech recognition (ASR) models. However, there is currently limited understanding about how variation in podcast representations influences ranking, retrieval, and relevance assessment. In this paper, we provide a comprehensive analysis of the effectiveness of the podcast search problem from three different sources of variation. First, we create a set of 5,745 unique, automatically generated query variations derived from the TREC 2020 and 2021 podcast track topic descriptions. Second, to enable a comprehensive and reproducible analysis, we build a diverse pool composed of a set of 17 different ranked retrieval runs (system variations) using state-of-the-art (SOTA) information retrieval (IR) systems for all of the query variations over a set of corpus (transcript) variations. Third, we use five large language models (LLMs) to automatically assess the relevance of query-document pairs resulting from every query-system-transcription combination, yielding over 1.8 million judged pairs. Our analysis studies the impact of these variations on both search and judgment effectiveness, resulting in a series of practical recommendations for podcast and audio retrieval tasks.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    W. Mansour, J. S. Culpepper, A. Yates, and J. Mackenzie
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    SIGIR,
+    2026</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/mcym26-sigir.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-1 year-2026">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/sigir26-short/" itemprop="url">When LLM Judges Inflate Scores: Exploring Overrating in Relevance Assessment</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Human relevance assessment is time-consuming and cognitively intensive, limiting the scalability of Information Retrieval evaluation. This has led to growing interest in using large language models (LLMs) as proxies for human judges. However, it remains an open question whether LLM-based relevance judgments are reliable, stable, and rigorous enough to match humans for relevance assessment. In this work, we conduct a study of overrating behavior in LLM-based relevance judgments across model backbones, evaluation paradigms (pointwise and pairwise), and passage modification strategies. We show that models consistently assign inflated relevance scores-often with high confidence-to passages that do not genuinely satisfy the underlying information need, revealing a system-wide bias rather than random fluctuations in judgment. Furthermore, controlled experiments show that LLM-based relevance judgments can be highly sensitive to passage length and surface-level lexical cues. These results raise concerns about the usage of LLMs as drop-in replacements for human relevance assessors, and highlight the urgent need for careful diagnostic evaluation frameworks when applying LLMs for relevance assessments. Our code and results are publicly available: <a href="https://github.com/chutingyu/Exploring-Overrating" target="_blank">https://github.com/chutingyu/Exploring-Overrating</a>
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    C. Yu, H. Li, G. Zuccon, J. Mackenzie, and T. Leelanupab
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    SIGIR,
+    2026</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/ylzml26-sigir.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-8 year-2026">
+          
+            <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://JMMackenzie.io/publication/sigir26-workshop/" itemprop="url">LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    The rapid advancement of large language models (LLMs) has opened new possibilities for understanding users in search and recommendation. While traditional behavior-based or feature-driven user models rely primarily on explicit interactions or handcrafted representations, LLMs introduce a fundamentally different paradigm: LLM-powered user profiling, where user preferences, intents, and contextual attributes can be extracted, summarized, or reasoned about directly through natural language. This shift unlocks powerful new paths to achieve personalization but also raises pressing questions related to modeling fidelity, temporal dynamics, evaluation methodology, privacy, and responsible deployment. The LLM-UP workshop aims to bring together researchers and practitioners to systematize emerging progress in LLM-powered user profiling, identify open challenges, and explore opportunities for integrating such techniques into search and recommendation pipelines. The LLM-UP workshop adopts an interactive structure featuring lightning talks, panel discussions, and paper presentations to foster active engagement, cross-disciplinary dialogue, and community-driven agenda setting for this rapidly evolving field.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    H. Yin, W. Yuan, Y. Zhang, J. Mackenzie, Q. V. Hung Nguyen, W. Xin Zhao, Y. Li, and L. Yao
+    
+  </div>
+
+  <div class="pub-abstract" itemprop="notes">
+  
+  </div> 
+
+  <div class="pub-publication">
+    SIGIR,
+    2026</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://JMMackenzie.io/pdf/yy&#43;26-sigir.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+          
+        </div>
+
         
 
         

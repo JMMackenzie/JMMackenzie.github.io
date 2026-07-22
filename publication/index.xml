@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>How Variability Influences Podcast Search: Queries, Transcriptions, and Judges</title>
+      <link>https://JMMackenzie.io/publication/sigir26-long/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir26-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When LLM Judges Inflate Scores: Exploring Overrating in Relevance Assessment</title>
+      <link>https://JMMackenzie.io/publication/sigir26-short/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir26-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation</title>
+      <link>https://JMMackenzie.io/publication/sigir26-workshop/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://JMMackenzie.io/publication/sigir26-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simple Techniques for Efficient Top-$k$ Batch Query Processing</title>
       <link>https://JMMackenzie.io/publication/irrj26/</link>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
